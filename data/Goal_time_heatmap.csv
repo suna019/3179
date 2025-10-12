@@ -1,451 +1,452 @@
 "team_name","type","interval","goals"
-"Australia National Team","conceded","0-10",0
-"Bahrain National Team","conceded","0-10",0
-"China National Team","conceded","0-10",0
-"Hong Kong National Team","conceded","0-10",0
-"India National Team","conceded","0-10",1
-"Indonesia National Team","conceded","0-10",1
-"Iran National Team","conceded","0-10",0
-"Iraq National Team","conceded","0-10",0
-"Japan National Team","conceded","0-10",1
-"Jordan National Team","conceded","0-10",1
-"Kyrgyzstan National Team","conceded","0-10",1
-"Lebanon National Team","conceded","0-10",0
-"Malaysia National Team","conceded","0-10",0
-"Oman National Team","conceded","0-10",0
-"Palestine National Team","conceded","0-10",1
-"Qatar National Team","conceded","0-10",1
-"Saudi Arabia National Team","conceded","0-10",0
-"South Korea National Team","conceded","0-10",0
-"Syria National Team","conceded","0-10",0
-"Tajikistan National Team","conceded","0-10",0
-"Thailand National Team","conceded","0-10",0
+"Australia","conceded","0-10",0
+"Bahrain","conceded","0-10",0
+"China","conceded","0-10",0
+"Hong Kong","conceded","0-10",0
+"India","conceded","0-10",1
+"Indonesia","conceded","0-10",1
+"Iran","conceded","0-10",0
+"Iraq","conceded","0-10",0
+"Japan","conceded","0-10",1
+"Jordan","conceded","0-10",1
+"Kyrgyzstan","conceded","0-10",1
+"Lebanon","conceded","0-10",0
+"Malaysia","conceded","0-10",0
+"Oman","conceded","0-10",0
+"Palestine","conceded","0-10",1
+"Qatar","conceded","0-10",1
+"Saudi Arabia","conceded","0-10",0
+"South Korea","conceded","0-10",0
+"Syria","conceded","0-10",0
+"Tajikistan","conceded","0-10",0
+"Thailand","conceded","0-10",0
 "Total","conceded","0-10",7
-"United Arab Emirates National Team","conceded","0-10",0
-"Uzbekistan National Team","conceded","0-10",0
-"Vietnam National Team","conceded","0-10",0
-"Australia National Team","conceded","11-20",0
-"Bahrain National Team","conceded","11-20",0
-"China National Team","conceded","11-20",0
-"Hong Kong National Team","conceded","11-20",1
-"India National Team","conceded","11-20",1
-"Indonesia National Team","conceded","11-20",2
-"Iran National Team","conceded","11-20",1
-"Iraq National Team","conceded","11-20",0
-"Japan National Team","conceded","11-20",1
-"Jordan National Team","conceded","11-20",0
-"Kyrgyzstan National Team","conceded","11-20",0
-"Lebanon National Team","conceded","11-20",0
-"Malaysia National Team","conceded","11-20",2
-"Oman National Team","conceded","11-20",0
-"Palestine National Team","conceded","11-20",1
-"Qatar National Team","conceded","11-20",0
-"Saudi Arabia National Team","conceded","11-20",1
-"South Korea National Team","conceded","11-20",0
-"Syria National Team","conceded","11-20",0
-"Tajikistan National Team","conceded","11-20",1
-"Thailand National Team","conceded","11-20",0
+"United Arab Emirates","conceded","0-10",0
+"Uzbekistan","conceded","0-10",0
+"Vietnam","conceded","0-10",0
+"Australia","conceded","11-20",0
+"Bahrain","conceded","11-20",0
+"China","conceded","11-20",0
+"Hong Kong","conceded","11-20",1
+"India","conceded","11-20",1
+"Indonesia","conceded","11-20",2
+"Iran","conceded","11-20",1
+"Iraq","conceded","11-20",0
+"Japan","conceded","11-20",1
+"Jordan","conceded","11-20",0
+"Kyrgyzstan","conceded","11-20",0
+"Lebanon","conceded","11-20",0
+"Malaysia","conceded","11-20",2
+"Oman","conceded","11-20",0
+"Palestine","conceded","11-20",1
+"Qatar","conceded","11-20",0
+"Saudi Arabia","conceded","11-20",1
+"South Korea","conceded","11-20",0
+"Syria","conceded","11-20",0
+"Tajikistan","conceded","11-20",1
+"Thailand","conceded","11-20",0
 "Total","conceded","11-20",12
-"United Arab Emirates National Team","conceded","11-20",0
-"Uzbekistan National Team","conceded","11-20",0
-"Vietnam National Team","conceded","11-20",1
-"Australia National Team","conceded","21-30",0
-"Bahrain National Team","conceded","21-30",0
-"China National Team","conceded","21-30",0
-"Hong Kong National Team","conceded","21-30",1
-"India National Team","conceded","21-30",0
-"Indonesia National Team","conceded","21-30",0
-"Iran National Team","conceded","21-30",1
-"Iraq National Team","conceded","21-30",0
-"Japan National Team","conceded","21-30",0
-"Jordan National Team","conceded","21-30",1
-"Kyrgyzstan National Team","conceded","21-30",1
-"Lebanon National Team","conceded","21-30",0
-"Malaysia National Team","conceded","21-30",1
-"Oman National Team","conceded","21-30",0
-"Palestine National Team","conceded","21-30",1
-"Qatar National Team","conceded","21-30",0
-"Saudi Arabia National Team","conceded","21-30",0
-"South Korea National Team","conceded","21-30",0
-"Syria National Team","conceded","21-30",0
-"Tajikistan National Team","conceded","21-30",0
-"Thailand National Team","conceded","21-30",0
+"United Arab Emirates","conceded","11-20",0
+"Uzbekistan","conceded","11-20",0
+"Vietnam","conceded","11-20",1
+"Australia","conceded","21-30",0
+"Bahrain","conceded","21-30",0
+"China","conceded","21-30",0
+"Hong Kong","conceded","21-30",1
+"India","conceded","21-30",0
+"Indonesia","conceded","21-30",0
+"Iran","conceded","21-30",1
+"Iraq","conceded","21-30",0
+"Japan","conceded","21-30",0
+"Jordan","conceded","21-30",1
+"Kyrgyzstan","conceded","21-30",1
+"Lebanon","conceded","21-30",0
+"Malaysia","conceded","21-30",1
+"Oman","conceded","21-30",0
+"Palestine","conceded","21-30",1
+"Qatar","conceded","21-30",0
+"Saudi Arabia","conceded","21-30",0
+"South Korea","conceded","21-30",0
+"Syria","conceded","21-30",0
+"Tajikistan","conceded","21-30",0
+"Thailand","conceded","21-30",0
 "Total","conceded","21-30",9
-"United Arab Emirates National Team","conceded","21-30",2
-"Uzbekistan National Team","conceded","21-30",1
-"Vietnam National Team","conceded","21-30",0
-"Australia National Team","conceded","31-40",0
-"Bahrain National Team","conceded","31-40",2
-"China National Team","conceded","31-40",0
-"Hong Kong National Team","conceded","31-40",1
-"India National Team","conceded","31-40",0
-"Indonesia National Team","conceded","31-40",0
-"Iran National Team","conceded","31-40",0
-"Iraq National Team","conceded","31-40",1
-"Japan National Team","conceded","31-40",1
-"Jordan National Team","conceded","31-40",1
-"Kyrgyzstan National Team","conceded","31-40",1
-"Lebanon National Team","conceded","31-40",0
-"Malaysia National Team","conceded","31-40",1
-"Oman National Team","conceded","31-40",0
-"Palestine National Team","conceded","31-40",1
-"Qatar National Team","conceded","31-40",1
-"Saudi Arabia National Team","conceded","31-40",0
-"South Korea National Team","conceded","31-40",1
-"Syria National Team","conceded","31-40",1
-"Tajikistan National Team","conceded","31-40",0
-"Thailand National Team","conceded","31-40",1
+"United Arab Emirates","conceded","21-30",2
+"Uzbekistan","conceded","21-30",1
+"Vietnam","conceded","21-30",0
+"Australia","conceded","31-40",0
+"Bahrain","conceded","31-40",2
+"China","conceded","31-40",0
+"Hong Kong","conceded","31-40",1
+"India","conceded","31-40",0
+"Indonesia","conceded","31-40",0
+"Iran","conceded","31-40",0
+"Iraq","conceded","31-40",1
+"Japan","conceded","31-40",1
+"Jordan","conceded","31-40",1
+"Kyrgyzstan","conceded","31-40",1
+"Lebanon","conceded","31-40",0
+"Malaysia","conceded","31-40",1
+"Oman","conceded","31-40",0
+"Palestine","conceded","31-40",1
+"Qatar","conceded","31-40",1
+"Saudi Arabia","conceded","31-40",0
+"South Korea","conceded","31-40",1
+"Syria","conceded","31-40",1
+"Tajikistan","conceded","31-40",0
+"Thailand","conceded","31-40",1
 "Total","conceded","31-40",13
-"United Arab Emirates National Team","conceded","31-40",0
-"Uzbekistan National Team","conceded","31-40",0
-"Vietnam National Team","conceded","31-40",0
-"Australia National Team","conceded","41-50",0
-"Bahrain National Team","conceded","41-50",1
-"China National Team","conceded","41-50",0
-"Hong Kong National Team","conceded","41-50",1
-"India National Team","conceded","41-50",2
-"Indonesia National Team","conceded","41-50",2
-"Iran National Team","conceded","41-50",2
-"Iraq National Team","conceded","41-50",2
-"Japan National Team","conceded","41-50",1
-"Jordan National Team","conceded","41-50",0
-"Kyrgyzstan National Team","conceded","41-50",1
-"Lebanon National Team","conceded","41-50",1
-"Malaysia National Team","conceded","41-50",0
-"Oman National Team","conceded","41-50",0
-"Palestine National Team","conceded","41-50",2
-"Qatar National Team","conceded","41-50",0
-"Saudi Arabia National Team","conceded","41-50",0
-"South Korea National Team","conceded","41-50",3
-"Syria National Team","conceded","41-50",0
-"Tajikistan National Team","conceded","41-50",1
-"Thailand National Team","conceded","41-50",0
+"United Arab Emirates","conceded","31-40",0
+"Uzbekistan","conceded","31-40",0
+"Vietnam","conceded","31-40",0
+"Australia","conceded","41-50",0
+"Bahrain","conceded","41-50",1
+"China","conceded","41-50",0
+"Hong Kong","conceded","41-50",1
+"India","conceded","41-50",2
+"Indonesia","conceded","41-50",2
+"Iran","conceded","41-50",2
+"Iraq","conceded","41-50",2
+"Japan","conceded","41-50",1
+"Jordan","conceded","41-50",0
+"Kyrgyzstan","conceded","41-50",1
+"Lebanon","conceded","41-50",1
+"Malaysia","conceded","41-50",0
+"Oman","conceded","41-50",0
+"Palestine","conceded","41-50",2
+"Qatar","conceded","41-50",0
+"Saudi Arabia","conceded","41-50",0
+"South Korea","conceded","41-50",3
+"Syria","conceded","41-50",0
+"Tajikistan","conceded","41-50",1
+"Thailand","conceded","41-50",0
 "Total","conceded","41-50",26
-"United Arab Emirates National Team","conceded","41-50",2
-"Uzbekistan National Team","conceded","41-50",1
-"Vietnam National Team","conceded","41-50",4
-"Australia National Team","conceded","51-60",0
-"Bahrain National Team","conceded","51-60",1
-"China National Team","conceded","51-60",0
-"Hong Kong National Team","conceded","51-60",2
-"India National Team","conceded","51-60",0
-"Indonesia National Team","conceded","51-60",1
-"Iran National Team","conceded","51-60",0
-"Iraq National Team","conceded","51-60",0
-"Japan National Team","conceded","51-60",1
-"Jordan National Team","conceded","51-60",0
-"Kyrgyzstan National Team","conceded","51-60",0
-"Lebanon National Team","conceded","51-60",1
-"Malaysia National Team","conceded","51-60",0
-"Oman National Team","conceded","51-60",0
-"Palestine National Team","conceded","51-60",1
-"Qatar National Team","conceded","51-60",2
-"Saudi Arabia National Team","conceded","51-60",0
-"South Korea National Team","conceded","51-60",3
-"Syria National Team","conceded","51-60",1
-"Tajikistan National Team","conceded","51-60",0
-"Thailand National Team","conceded","51-60",0
+"United Arab Emirates","conceded","41-50",2
+"Uzbekistan","conceded","41-50",1
+"Vietnam","conceded","41-50",4
+"Australia","conceded","51-60",0
+"Bahrain","conceded","51-60",1
+"China","conceded","51-60",0
+"Hong Kong","conceded","51-60",2
+"India","conceded","51-60",0
+"Indonesia","conceded","51-60",1
+"Iran","conceded","51-60",0
+"Iraq","conceded","51-60",0
+"Japan","conceded","51-60",1
+"Jordan","conceded","51-60",0
+"Kyrgyzstan","conceded","51-60",0
+"Lebanon","conceded","51-60",1
+"Malaysia","conceded","51-60",0
+"Oman","conceded","51-60",0
+"Palestine","conceded","51-60",1
+"Qatar","conceded","51-60",2
+"Saudi Arabia","conceded","51-60",0
+"South Korea","conceded","51-60",3
+"Syria","conceded","51-60",1
+"Tajikistan","conceded","51-60",0
+"Thailand","conceded","51-60",0
 "Total","conceded","51-60",14
-"United Arab Emirates National Team","conceded","51-60",0
-"Uzbekistan National Team","conceded","51-60",1
-"Vietnam National Team","conceded","51-60",0
-"Australia National Team","conceded","61-70",0
-"Bahrain National Team","conceded","61-70",1
-"China National Team","conceded","61-70",1
-"Hong Kong National Team","conceded","61-70",0
-"India National Team","conceded","61-70",0
-"Indonesia National Team","conceded","61-70",0
-"Iran National Team","conceded","61-70",1
-"Iraq National Team","conceded","61-70",0
-"Japan National Team","conceded","61-70",1
-"Jordan National Team","conceded","61-70",1
-"Kyrgyzstan National Team","conceded","61-70",0
-"Lebanon National Team","conceded","61-70",0
-"Malaysia National Team","conceded","61-70",0
-"Oman National Team","conceded","61-70",0
-"Palestine National Team","conceded","61-70",0
-"Qatar National Team","conceded","61-70",1
-"Saudi Arabia National Team","conceded","61-70",0
-"South Korea National Team","conceded","61-70",2
-"Syria National Team","conceded","61-70",0
-"Tajikistan National Team","conceded","61-70",1
-"Thailand National Team","conceded","61-70",1
+"United Arab Emirates","conceded","51-60",0
+"Uzbekistan","conceded","51-60",1
+"Vietnam","conceded","51-60",0
+"Australia","conceded","61-70",0
+"Bahrain","conceded","61-70",1
+"China","conceded","61-70",1
+"Hong Kong","conceded","61-70",0
+"India","conceded","61-70",0
+"Indonesia","conceded","61-70",0
+"Iran","conceded","61-70",1
+"Iraq","conceded","61-70",0
+"Japan","conceded","61-70",1
+"Jordan","conceded","61-70",1
+"Kyrgyzstan","conceded","61-70",0
+"Lebanon","conceded","61-70",0
+"Malaysia","conceded","61-70",0
+"Oman","conceded","61-70",0
+"Palestine","conceded","61-70",0
+"Qatar","conceded","61-70",1
+"Saudi Arabia","conceded","61-70",0
+"South Korea","conceded","61-70",2
+"Syria","conceded","61-70",0
+"Tajikistan","conceded","61-70",1
+"Thailand","conceded","61-70",1
 "Total","conceded","61-70",11
-"United Arab Emirates National Team","conceded","61-70",1
-"Uzbekistan National Team","conceded","61-70",0
-"Vietnam National Team","conceded","61-70",0
-"Australia National Team","conceded","71-80",1
-"Bahrain National Team","conceded","71-80",1
-"China National Team","conceded","71-80",0
-"Hong Kong National Team","conceded","71-80",0
-"India National Team","conceded","71-80",2
-"Indonesia National Team","conceded","71-80",1
-"Iran National Team","conceded","71-80",0
-"Iraq National Team","conceded","71-80",0
-"Japan National Team","conceded","71-80",0
-"Jordan National Team","conceded","71-80",2
-"Kyrgyzstan National Team","conceded","71-80",0
-"Lebanon National Team","conceded","71-80",1
-"Malaysia National Team","conceded","71-80",0
-"Oman National Team","conceded","71-80",2
-"Palestine National Team","conceded","71-80",0
-"Qatar National Team","conceded","71-80",0
-"Saudi Arabia National Team","conceded","71-80",0
-"South Korea National Team","conceded","71-80",0
-"Syria National Team","conceded","71-80",0
-"Tajikistan National Team","conceded","71-80",0
-"Thailand National Team","conceded","71-80",0
+"United Arab Emirates","conceded","61-70",1
+"Uzbekistan","conceded","61-70",0
+"Vietnam","conceded","61-70",0
+"Australia","conceded","71-80",1
+"Bahrain","conceded","71-80",1
+"China","conceded","71-80",0
+"Hong Kong","conceded","71-80",0
+"India","conceded","71-80",2
+"Indonesia","conceded","71-80",1
+"Iran","conceded","71-80",0
+"Iraq","conceded","71-80",0
+"Japan","conceded","71-80",0
+"Jordan","conceded","71-80",2
+"Kyrgyzstan","conceded","71-80",0
+"Lebanon","conceded","71-80",1
+"Malaysia","conceded","71-80",0
+"Oman","conceded","71-80",2
+"Palestine","conceded","71-80",0
+"Qatar","conceded","71-80",0
+"Saudi Arabia","conceded","71-80",0
+"South Korea","conceded","71-80",0
+"Syria","conceded","71-80",0
+"Tajikistan","conceded","71-80",0
+"Thailand","conceded","71-80",0
 "Total","conceded","71-80",11
-"United Arab Emirates National Team","conceded","71-80",0
-"Uzbekistan National Team","conceded","71-80",0
-"Vietnam National Team","conceded","71-80",1
-"Australia National Team","conceded","81-90",1
-"Bahrain National Team","conceded","81-90",0
-"China National Team","conceded","81-90",0
-"Hong Kong National Team","conceded","81-90",1
-"India National Team","conceded","81-90",0
-"Indonesia National Team","conceded","81-90",3
-"Iran National Team","conceded","81-90",2
-"Iraq National Team","conceded","81-90",4
-"Japan National Team","conceded","81-90",2
-"Jordan National Team","conceded","81-90",2
-"Kyrgyzstan National Team","conceded","81-90",1
-"Lebanon National Team","conceded","81-90",2
-"Malaysia National Team","conceded","81-90",4
-"Oman National Team","conceded","81-90",1
-"Palestine National Team","conceded","81-90",0
-"Qatar National Team","conceded","81-90",0
-"Saudi Arabia National Team","conceded","81-90",1
-"South Korea National Team","conceded","81-90",1
-"Syria National Team","conceded","81-90",0
-"Tajikistan National Team","conceded","81-90",1
-"Thailand National Team","conceded","81-90",0
+"United Arab Emirates","conceded","71-80",0
+"Uzbekistan","conceded","71-80",0
+"Vietnam","conceded","71-80",1
+"Australia","conceded","81-90",1
+"Bahrain","conceded","81-90",0
+"China","conceded","81-90",0
+"Hong Kong","conceded","81-90",1
+"India","conceded","81-90",0
+"Indonesia","conceded","81-90",3
+"Iran","conceded","81-90",2
+"Iraq","conceded","81-90",4
+"Japan","conceded","81-90",2
+"Jordan","conceded","81-90",2
+"Kyrgyzstan","conceded","81-90",1
+"Lebanon","conceded","81-90",2
+"Malaysia","conceded","81-90",4
+"Oman","conceded","81-90",1
+"Palestine","conceded","81-90",0
+"Qatar","conceded","81-90",0
+"Saudi Arabia","conceded","81-90",1
+"South Korea","conceded","81-90",1
+"Syria","conceded","81-90",0
+"Tajikistan","conceded","81-90",1
+"Thailand","conceded","81-90",0
 "Total","conceded","81-90",28
-"United Arab Emirates National Team","conceded","81-90",0
-"Uzbekistan National Team","conceded","81-90",0
-"Vietnam National Team","conceded","81-90",2
-"Australia National Team","scored","0-10",0
-"Bahrain National Team","scored","0-10",0
-"China National Team","scored","0-10",0
-"Hong Kong National Team","scored","0-10",0
-"India National Team","scored","0-10",0
-"Indonesia National Team","scored","0-10",0
-"Iran National Team","scored","0-10",2
-"Iraq National Team","scored","0-10",1
-"Japan National Team","scored","0-10",1
-"Jordan National Team","scored","0-10",0
-"Kyrgyzstan National Team","scored","0-10",0
-"Lebanon National Team","scored","0-10",0
-"Malaysia National Team","scored","0-10",0
-"Oman National Team","scored","0-10",1
-"Palestine National Team","scored","0-10",0
-"Qatar National Team","scored","0-10",0
-"Saudi Arabia National Team","scored","0-10",0
-"South Korea National Team","scored","0-10",1
-"Syria National Team","scored","0-10",0
-"Tajikistan National Team","scored","0-10",0
-"Thailand National Team","scored","0-10",0
+"United Arab Emirates","conceded","81-90",0
+"Uzbekistan","conceded","81-90",0
+"Vietnam","conceded","81-90",2
+"Australia","scored","0-10",0
+"Bahrain","scored","0-10",0
+"China","scored","0-10",0
+"Hong Kong","scored","0-10",0
+"India","scored","0-10",0
+"Indonesia","scored","0-10",0
+"Iran","scored","0-10",2
+"Iraq","scored","0-10",1
+"Japan","scored","0-10",1
+"Jordan","scored","0-10",0
+"Kyrgyzstan","scored","0-10",0
+"Lebanon","scored","0-10",0
+"Malaysia","scored","0-10",0
+"Oman","scored","0-10",1
+"Palestine","scored","0-10",0
+"Qatar","scored","0-10",0
+"Saudi Arabia","scored","0-10",0
+"South Korea","scored","0-10",1
+"Syria","scored","0-10",0
+"Tajikistan","scored","0-10",0
+"Thailand","scored","0-10",0
 "Total","scored","0-10",7
-"United Arab Emirates National Team","scored","0-10",0
-"Uzbekistan National Team","scored","0-10",1
-"Vietnam National Team","scored","0-10",0
-"Australia National Team","scored","11-20",1
-"Bahrain National Team","scored","11-20",0
-"China National Team","scored","11-20",0
-"Hong Kong National Team","scored","11-20",0
-"India National Team","scored","11-20",0
-"Indonesia National Team","scored","11-20",0
-"Iran National Team","scored","11-20",1
-"Iraq National Team","scored","11-20",1
-"Japan National Team","scored","11-20",1
-"Jordan National Team","scored","11-20",2
-"Kyrgyzstan National Team","scored","11-20",0
-"Lebanon National Team","scored","11-20",0
-"Malaysia National Team","scored","11-20",0
-"Oman National Team","scored","11-20",1
-"Palestine National Team","scored","11-20",1
-"Qatar National Team","scored","11-20",2
-"Saudi Arabia National Team","scored","11-20",0
-"South Korea National Team","scored","11-20",0
-"Syria National Team","scored","11-20",0
-"Tajikistan National Team","scored","11-20",0
-"Thailand National Team","scored","11-20",0
+"United Arab Emirates","scored","0-10",0
+"Uzbekistan","scored","0-10",1
+"Vietnam","scored","0-10",0
+"Australia","scored","11-20",1
+"Bahrain","scored","11-20",0
+"China","scored","11-20",0
+"Hong Kong","scored","11-20",0
+"India","scored","11-20",0
+"Indonesia","scored","11-20",0
+"Iran","scored","11-20",1
+"Iraq","scored","11-20",1
+"Japan","scored","11-20",1
+"Jordan","scored","11-20",2
+"Kyrgyzstan","scored","11-20",0
+"Lebanon","scored","11-20",0
+"Malaysia","scored","11-20",0
+"Oman","scored","11-20",1
+"Palestine","scored","11-20",1
+"Qatar","scored","11-20",2
+"Saudi Arabia","scored","11-20",0
+"South Korea","scored","11-20",0
+"Syria","scored","11-20",0
+"Tajikistan","scored","11-20",0
+"Thailand","scored","11-20",0
 "Total","scored","11-20",12
-"United Arab Emirates National Team","scored","11-20",0
-"Uzbekistan National Team","scored","11-20",1
-"Vietnam National Team","scored","11-20",1
-"Australia National Team","scored","21-30",0
-"Bahrain National Team","scored","21-30",0
-"China National Team","scored","21-30",0
-"Hong Kong National Team","scored","21-30",0
-"India National Team","scored","21-30",0
-"Indonesia National Team","scored","21-30",0
-"Iran National Team","scored","21-30",2
-"Iraq National Team","scored","21-30",0
-"Japan National Team","scored","21-30",1
-"Jordan National Team","scored","21-30",0
-"Kyrgyzstan National Team","scored","21-30",0
-"Lebanon National Team","scored","21-30",0
-"Malaysia National Team","scored","21-30",0
-"Oman National Team","scored","21-30",0
-"Palestine National Team","scored","21-30",0
-"Qatar National Team","scored","21-30",2
-"Saudi Arabia National Team","scored","21-30",0
-"South Korea National Team","scored","21-30",1
-"Syria National Team","scored","21-30",0
-"Tajikistan National Team","scored","21-30",1
-"Thailand National Team","scored","21-30",1
+"United Arab Emirates","scored","11-20",0
+"Uzbekistan","scored","11-20",1
+"Vietnam","scored","11-20",1
+"Australia","scored","21-30",0
+"Bahrain","scored","21-30",0
+"China","scored","21-30",0
+"Hong Kong","scored","21-30",0
+"India","scored","21-30",0
+"Indonesia","scored","21-30",0
+"Iran","scored","21-30",2
+"Iraq","scored","21-30",0
+"Japan","scored","21-30",1
+"Jordan","scored","21-30",0
+"Kyrgyzstan","scored","21-30",0
+"Lebanon","scored","21-30",0
+"Malaysia","scored","21-30",0
+"Oman","scored","21-30",0
+"Palestine","scored","21-30",0
+"Qatar","scored","21-30",2
+"Saudi Arabia","scored","21-30",0
+"South Korea","scored","21-30",1
+"Syria","scored","21-30",0
+"Tajikistan","scored","21-30",1
+"Thailand","scored","21-30",1
 "Total","scored","21-30",9
-"United Arab Emirates National Team","scored","21-30",1
-"Uzbekistan National Team","scored","21-30",0
-"Vietnam National Team","scored","21-30",0
-"Australia National Team","scored","31-40",0
-"Bahrain National Team","scored","31-40",1
-"China National Team","scored","31-40",0
-"Hong Kong National Team","scored","31-40",0
-"India National Team","scored","31-40",0
-"Indonesia National Team","scored","31-40",1
-"Iran National Team","scored","31-40",2
-"Iraq National Team","scored","31-40",0
-"Japan National Team","scored","31-40",1
-"Jordan National Team","scored","31-40",2
-"Kyrgyzstan National Team","scored","31-40",0
-"Lebanon National Team","scored","31-40",0
-"Malaysia National Team","scored","31-40",0
-"Oman National Team","scored","31-40",0
-"Palestine National Team","scored","31-40",1
-"Qatar National Team","scored","31-40",0
-"Saudi Arabia National Team","scored","31-40",1
-"South Korea National Team","scored","31-40",1
-"Syria National Team","scored","31-40",0
-"Tajikistan National Team","scored","31-40",0
-"Thailand National Team","scored","31-40",0
+"United Arab Emirates","scored","21-30",1
+"Uzbekistan","scored","21-30",0
+"Vietnam","scored","21-30",0
+"Australia","scored","31-40",0
+"Bahrain","scored","31-40",1
+"China","scored","31-40",0
+"Hong Kong","scored","31-40",0
+"India","scored","31-40",0
+"Indonesia","scored","31-40",1
+"Iran","scored","31-40",2
+"Iraq","scored","31-40",0
+"Japan","scored","31-40",1
+"Jordan","scored","31-40",2
+"Kyrgyzstan","scored","31-40",0
+"Lebanon","scored","31-40",0
+"Malaysia","scored","31-40",0
+"Oman","scored","31-40",0
+"Palestine","scored","31-40",1
+"Qatar","scored","31-40",0
+"Saudi Arabia","scored","31-40",1
+"South Korea","scored","31-40",1
+"Syria","scored","31-40",0
+"Tajikistan","scored","31-40",0
+"Thailand","scored","31-40",0
 "Total","scored","31-40",13
-"United Arab Emirates National Team","scored","31-40",1
-"Uzbekistan National Team","scored","31-40",1
-"Vietnam National Team","scored","31-40",1
-"Australia National Team","scored","41-50",4
-"Bahrain National Team","scored","41-50",0
-"China National Team","scored","41-50",0
-"Hong Kong National Team","scored","41-50",1
-"India National Team","scored","41-50",0
-"Indonesia National Team","scored","41-50",1
-"Iran National Team","scored","41-50",0
-"Iraq National Team","scored","41-50",3
-"Japan National Team","scored","41-50",3
-"Jordan National Team","scored","41-50",2
-"Kyrgyzstan National Team","scored","41-50",0
-"Lebanon National Team","scored","41-50",1
-"Malaysia National Team","scored","41-50",0
-"Oman National Team","scored","41-50",0
-"Palestine National Team","scored","41-50",3
-"Qatar National Team","scored","41-50",4
-"Saudi Arabia National Team","scored","41-50",1
-"South Korea National Team","scored","41-50",0
-"Syria National Team","scored","41-50",0
-"Tajikistan National Team","scored","41-50",0
-"Thailand National Team","scored","41-50",1
+"United Arab Emirates","scored","31-40",1
+"Uzbekistan","scored","31-40",1
+"Vietnam","scored","31-40",1
+"Australia","scored","41-50",4
+"Bahrain","scored","41-50",0
+"China","scored","41-50",0
+"Hong Kong","scored","41-50",1
+"India","scored","41-50",0
+"Indonesia","scored","41-50",1
+"Iran","scored","41-50",0
+"Iraq","scored","41-50",3
+"Japan","scored","41-50",3
+"Jordan","scored","41-50",2
+"Kyrgyzstan","scored","41-50",0
+"Lebanon","scored","41-50",1
+"Malaysia","scored","41-50",0
+"Oman","scored","41-50",0
+"Palestine","scored","41-50",3
+"Qatar","scored","41-50",4
+"Saudi Arabia","scored","41-50",1
+"South Korea","scored","41-50",0
+"Syria","scored","41-50",0
+"Tajikistan","scored","41-50",0
+"Thailand","scored","41-50",1
 "Total","scored","41-50",26
-"United Arab Emirates National Team","scored","41-50",0
-"Uzbekistan National Team","scored","41-50",1
-"Vietnam National Team","scored","41-50",1
-"Australia National Team","scored","51-60",1
-"Bahrain National Team","scored","51-60",1
-"China National Team","scored","51-60",0
-"Hong Kong National Team","scored","51-60",0
-"India National Team","scored","51-60",0
-"Indonesia National Team","scored","51-60",0
-"Iran National Team","scored","51-60",3
-"Iraq National Team","scored","51-60",0
-"Japan National Team","scored","51-60",1
-"Jordan National Team","scored","51-60",1
-"Kyrgyzstan National Team","scored","51-60",0
-"Lebanon National Team","scored","51-60",0
-"Malaysia National Team","scored","51-60",1
-"Oman National Team","scored","51-60",0
-"Palestine National Team","scored","51-60",1
-"Qatar National Team","scored","51-60",1
-"Saudi Arabia National Team","scored","51-60",0
-"South Korea National Team","scored","51-60",1
-"Syria National Team","scored","51-60",0
-"Tajikistan National Team","scored","51-60",0
-"Thailand National Team","scored","51-60",1
+"United Arab Emirates","scored","41-50",0
+"Uzbekistan","scored","41-50",1
+"Vietnam","scored","41-50",1
+"Australia","scored","51-60",1
+"Bahrain","scored","51-60",1
+"China","scored","51-60",0
+"Hong Kong","scored","51-60",0
+"India","scored","51-60",0
+"Indonesia","scored","51-60",0
+"Iran","scored","51-60",3
+"Iraq","scored","51-60",0
+"Japan","scored","51-60",1
+"Jordan","scored","51-60",1
+"Kyrgyzstan","scored","51-60",0
+"Lebanon","scored","51-60",0
+"Malaysia","scored","51-60",1
+"Oman","scored","51-60",0
+"Palestine","scored","51-60",1
+"Qatar","scored","51-60",1
+"Saudi Arabia","scored","51-60",0
+"South Korea","scored","51-60",1
+"Syria","scored","51-60",0
+"Tajikistan","scored","51-60",0
+"Thailand","scored","51-60",1
 "Total","scored","51-60",14
-"United Arab Emirates National Team","scored","51-60",1
-"Uzbekistan National Team","scored","51-60",1
-"Vietnam National Team","scored","51-60",0
-"Australia National Team","scored","61-70",0
-"Bahrain National Team","scored","61-70",1
-"China National Team","scored","61-70",0
-"Hong Kong National Team","scored","61-70",0
-"India National Team","scored","61-70",0
-"Indonesia National Team","scored","61-70",0
-"Iran National Team","scored","61-70",1
-"Iraq National Team","scored","61-70",1
-"Japan National Team","scored","61-70",0
-"Jordan National Team","scored","61-70",3
-"Kyrgyzstan National Team","scored","61-70",0
-"Lebanon National Team","scored","61-70",0
-"Malaysia National Team","scored","61-70",1
-"Oman National Team","scored","61-70",0
-"Palestine National Team","scored","61-70",0
-"Qatar National Team","scored","61-70",1
-"Saudi Arabia National Team","scored","61-70",0
-"South Korea National Team","scored","61-70",1
-"Syria National Team","scored","61-70",1
-"Tajikistan National Team","scored","61-70",0
-"Thailand National Team","scored","61-70",0
+"United Arab Emirates","scored","51-60",1
+"Uzbekistan","scored","51-60",1
+"Vietnam","scored","51-60",0
+"Australia","scored","61-70",0
+"Bahrain","scored","61-70",1
+"China","scored","61-70",0
+"Hong Kong","scored","61-70",0
+"India","scored","61-70",0
+"Indonesia","scored","61-70",0
+"Iran","scored","61-70",1
+"Iraq","scored","61-70",1
+"Japan","scored","61-70",0
+"Jordan","scored","61-70",3
+"Kyrgyzstan","scored","61-70",0
+"Lebanon","scored","61-70",0
+"Malaysia","scored","61-70",1
+"Oman","scored","61-70",0
+"Palestine","scored","61-70",0
+"Qatar","scored","61-70",1
+"Saudi Arabia","scored","61-70",0
+"South Korea","scored","61-70",1
+"Syria","scored","61-70",1
+"Tajikistan","scored","61-70",0
+"Thailand","scored","61-70",0
 "Total","scored","61-70",11
-"United Arab Emirates National Team","scored","61-70",0
-"Uzbekistan National Team","scored","61-70",1
-"Vietnam National Team","scored","61-70",0
-"Australia National Team","scored","71-80",1
-"Bahrain National Team","scored","71-80",0
-"China National Team","scored","71-80",0
-"Hong Kong National Team","scored","71-80",0
-"India National Team","scored","71-80",0
-"Indonesia National Team","scored","71-80",0
-"Iran National Team","scored","71-80",0
-"Iraq National Team","scored","71-80",3
-"Japan National Team","scored","71-80",1
-"Jordan National Team","scored","71-80",0
-"Kyrgyzstan National Team","scored","71-80",1
-"Lebanon National Team","scored","71-80",0
-"Malaysia National Team","scored","71-80",0
-"Oman National Team","scored","71-80",0
-"Palestine National Team","scored","71-80",0
-"Qatar National Team","scored","71-80",1
-"Saudi Arabia National Team","scored","71-80",1
-"South Korea National Team","scored","71-80",0
-"Syria National Team","scored","71-80",1
-"Tajikistan National Team","scored","71-80",1
-"Thailand National Team","scored","71-80",0
+"United Arab Emirates","scored","61-70",0
+"Uzbekistan","scored","61-70",1
+"Vietnam","scored","61-70",0
+"Australia","scored","71-80",1
+"Bahrain","scored","71-80",0
+"China","scored","71-80",0
+"Hong Kong","scored","71-80",0
+"India","scored","71-80",0
+"Indonesia","scored","71-80",0
+"Iran","scored","71-80",0
+"Iraq","scored","71-80",3
+"Japan","scored","71-80",1
+"Jordan","scored","71-80",0
+"Kyrgyzstan","scored","71-80",1
+"Lebanon","scored","71-80",0
+"Malaysia","scored","71-80",0
+"Oman","scored","71-80",0
+"Palestine","scored","71-80",0
+"Qatar","scored","71-80",1
+"Saudi Arabia","scored","71-80",1
+"South Korea","scored","71-80",0
+"Syria","scored","71-80",1
+"Tajikistan","scored","71-80",1
+"Thailand","scored","71-80",0
 "Total","scored","71-80",11
-"United Arab Emirates National Team","scored","71-80",0
-"Uzbekistan National Team","scored","71-80",1
-"Vietnam National Team","scored","71-80",0
-"Australia National Team","scored","81-90",2
-"Bahrain National Team","scored","81-90",1
-"China National Team","scored","81-90",0
-"Hong Kong National Team","scored","81-90",0
-"India National Team","scored","81-90",0
-"Indonesia National Team","scored","81-90",1
-"Iran National Team","scored","81-90",1
-"Iraq National Team","scored","81-90",1
-"Japan National Team","scored","81-90",3
-"Jordan National Team","scored","81-90",3
-"Kyrgyzstan National Team","scored","81-90",0
-"Lebanon National Team","scored","81-90",0
-"Malaysia National Team","scored","81-90",1
-"Oman National Team","scored","81-90",0
-"Palestine National Team","scored","81-90",0
-"Qatar National Team","scored","81-90",3
-"Saudi Arabia National Team","scored","81-90",2
-"South Korea National Team","scored","81-90",5
-"Syria National Team","scored","81-90",0
-"Tajikistan National Team","scored","81-90",1
-"Thailand National Team","scored","81-90",0
+"United Arab Emirates","scored","71-80",0
+"Uzbekistan","scored","71-80",1
+"Vietnam","scored","71-80",0
+"Australia","scored","81-90",2
+"Bahrain","scored","81-90",1
+"China","scored","81-90",0
+"Hong Kong","scored","81-90",0
+"India","scored","81-90",0
+"Indonesia","scored","81-90",1
+"Iran","scored","81-90",1
+"Iraq","scored","81-90",1
+"Japan","scored","81-90",3
+"Jordan","scored","81-90",3
+"Kyrgyzstan","scored","81-90",0
+"Lebanon","scored","81-90",0
+"Malaysia","scored","81-90",1
+"Oman","scored","81-90",0
+"Palestine","scored","81-90",0
+"Qatar","scored","81-90",3
+"Saudi Arabia","scored","81-90",2
+"South Korea","scored","81-90",5
+"Syria","scored","81-90",0
+"Tajikistan","scored","81-90",1
+"Thailand","scored","81-90",0
 "Total","scored","81-90",28
-"United Arab Emirates National Team","scored","81-90",3
-"Uzbekistan National Team","scored","81-90",0
-"Vietnam National Team","scored","81-90",1
+"United Arab Emirates","scored","81-90",3
+"Uzbekistan","scored","81-90",0
+"Vietnam","scored","81-90",1
+
