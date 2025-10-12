@@ -1,26 +1,25 @@
-"team_name","goals_scored","goals_conceded"
-"Japan",12,8
-"Jordan",13,8
-"India",0,6
-"Australia",9,3
-"Bahrain",4,6
-"China",0,1
-"Saudi Arabia",5,2
-"Qatar",14,5
-"Syria",2,2
-"Tajikistan",3,4
-"Palestine",6,7
-"Oman",2,3
-"Lebanon",1,5
-"Malaysia",3,8
-"Iraq",10,7
-"Iran",12,7
-"United Arab Emirates",6,5
-"Vietnam",4,8
-"Thailand",3,2
-"Uzbekistan",7,3
-"Hong Kong",1,7
-"South Korea",11,10
-"Kyrgyzstan",1,5
-"Indonesia",3,10
-
+"team_name",goals_scored,goals_conceded,"Status"
+"Japan",12,8,"Quarter-finals"
+"Jordan",13,8,"Runner-up"
+"India",0,6,"Group Stage"
+"Australia",9,3,"Quarter-finals"
+"Bahrain",4,6,"Round of 16"
+"China",0,1,"Group Stage"
+"Saudi Arabia",5,2,"Round of 16"
+"Qatar",14,5,"Winner"
+"Syria",2,2,"Round of 16"
+"Tajikistan",3,4,"Quarter-finals"
+"Palestine",6,7,"Round of 16"
+"Oman",2,3,"Group Stage"
+"Iran",12,7,"Semi-finals"
+"South Korea",11,10,"Semi-finals"
+"Uzbekistan",7,3,"Quarter-finals"
+"United Arab Emirates",6,5,"Round of 16"
+"Thailand",3,2,"Round of 16"
+"Indonesia",3,10,"Round of 16"
+"Hong Kong",1,7,"Group Stage"
+"Kyrgyzstan",1,5,"Group Stage"
+"Lebanon",1,5,"Group Stage"
+"Malaysia",3,8,"Group Stage"
+"Iraq",10,7,"Round of 16"
+"Vietnam",4,8,"Group Stage"
