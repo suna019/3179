@@ -1,4 +1,4 @@
-"full_name","Current.Club","age","position","goals_overall","assists_overall"
+"full_name","team","age","position","goals_overall","assists_overall"
 "Do Duy Manh","Vietnam",27,"Midfielder",0,0
 "Ezequiel Ham","Syria",30,"Midfielder",0,0
 "Ibrahim Hesar","Syria",30,"Forward",0,1
@@ -558,3 +558,4 @@
 "Nguyen Dinh Bac","Vietnam",19,"Midfielder",1,0
 "Nguyen Dinh Trieu","Vietnam",32,"Midfielder",0,0
 "Gethin Jones","Australia",28,"Defender",0,1
+
