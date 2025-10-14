@@ -1,0 +1,560 @@
+"full_name","Current.Club","age","position","goals_overall","assists_overall"
+"Do Duy Manh","Vietnam",27,"Midfielder",0,0
+"Ezequiel Ham","Syria",30,"Midfielder",0,0
+"Ibrahim Hesar","Syria",30,"Forward",0,1
+"Jalil Juan José Elías","Syria",28,"Midfielder",0,0
+"Aiden O'Neill","Australia",26,"Midfielder",0,0
+"Aziz Eraltay Behich","Australia",33,"Defender",0,0
+"Bruno Fornaroli Mezza","Australia",36,"Forward",0,0
+"Cameron Burgess","Australia",28,"Defender",0,0
+"Connor Metcalfe","Australia",24,"Forward",0,0
+"Craig Goodwin","Australia",32,"Forward",2,1
+"Jackson Irvine","Australia",31,"Midfielder",2,0
+"Joe Anthony Gauci","Australia",24,"Goalkeeper",0,0
+"Jordan Bos","Australia",21,"Defender",1,0
+"Kenau Baccus","Australia",26,"Midfielder",0,0
+"Kusini Boja Yengi","Australia",25,"Forward",0,0
+"Kye Rowles","Australia",26,"Defender",0,0
+"Lawrence Andrew Kingsley Thomas","Australia",32,"Goalkeeper",0,0
+"Lewis Miller","Australia",23,"Defender",0,0
+"Marco Tilio","Australia",22,"Forward",0,0
+"Mathew Ryan","Australia",32,"Goalkeeper",0,0
+"Mitchell Duke","Australia",33,"Forward",0,0
+"Nathaniel Atkinson","Australia",25,"Defender",0,1
+"Riley McGree","Australia",25,"Midfielder",0,1
+"Samuel Silvera","Australia",23,"Forward",0,0
+"Thomas Deng","Australia",27,"Defender",0,0
+"Yehia Hendi","Lebanon",25,"Midfielder",0,0
+"Abdulkarim Fardan","Bahrain",32,"Goalkeeper",0,0
+"Abdulla Yusuf Helal","Bahrain",31,"Forward",1,0
+"Ali Hasan Saeed Isa","Bahrain",27,"Midfielder",0,0
+"Ali Madan","Bahrain",28,"Midfielder",1,1
+"Ebrahim Lutfalla","Bahrain",31,"Goalkeeper",0,0
+"Hussain Ali Al Eker","Bahrain",22,"Midfielder",0,0
+"Ibrahim Al Khatal","Bahrain",23,"Midfielder",0,0
+"Ibrahim Al Wali Moustapha","Bahrain",27,"Midfielder",0,0
+"Jasim Al-Salama","Bahrain",26,"Midfielder",0,0
+"Jassim Al Shaikh","Bahrain",28,"Forward",0,0
+"Kamil Hasan Abdulla Ahmed Hasan Al Aswad","Bahrain",30,"Forward",0,0
+"Mahdi Faisal Al Humaidan","Bahrain",31,"Midfielder",0,0
+"Mohamed Adel Mohamed Ali Hasan","Bahrain",27,"Defender",0,0
+"Mohamed Yusuf Abdulla Al Hardan Ahmed Hasan","Bahrain",26,"Midfielder",0,0
+"Salem Husain Ahmed Abdulla Salem","Bahrain",23,"Forward",0,0
+"Sayed Mohamed Jaafar Sabt Abbas","Bahrain",38,"Goalkeeper",0,0
+"Waleed Mohamed Abdulla Ali Al Hayam","Bahrain",33,"Defender",0,0
+"Dion Cools","Malaysia",28,"Defender",0,0
+"Caio Canedo Corrêa","UAE",33,"Forward",0,0
+"Endrick dos Santos Parafita","Malaysia",29,"Midfielder",0,0
+"Everton Camargo","Hong Kong",33,"Forward",0,1
+"Fabio Virginio de Lima","UAE",31,"Midfielder",0,0
+"Lucas Michel Mendes","Qatar",34,"Defender",0,0
+"Paulo Josue Sturmer dos Reis","Malaysia",35,"Midfielder",0,1
+"Stefan Figueiredo Pereira","Hong Kong",36,"Forward",0,0
+"Walter Soares Belitardo Junior","Hong Kong",33,"Defender",0,0
+"Gabriel Bitar","Lebanon",25,"Forward",0,0
+"La","Malaysia",33,"Defender",0,0
+"Binbin Liu","China",31,"Midfielder",0,0
+"Chenjie Zhu","China",23,"Defender",0,0
+"Dalei Wang","China",35,"Goalkeeper",0,0
+"Dianzuo Liu","China",34,"Goalkeeper",0,0
+"Haofeng Xu","China",25,"Defender",0,0
+"Junling Yan","China",33,"Goalkeeper",0,0
+"Lei Li","China",32,"Midfielder",0,0
+"Lei Wu","China",32,"Midfielder",0,0
+"Liangming Lin","China",27,"Forward",0,0
+"Linpeng Zhang","China",35,"Defender",0,0
+"Long Tan","China",36,"Forward",0,0
+"Pengfei Xie","China",31,"Midfielder",0,0
+"Pu Chen","China",27,"Forward",0,0
+"Qiuming Wang","China",31,"Midfielder",0,0
+"Shangyuan Wang","China",31,"Midfielder",0,0
+"Shaocong Wu","China",24,"Defender",0,0
+"Shenglong Jiang","China",23,"Defender",0,0
+"Shihao Wei","China",29,"Forward",0,0
+"Tianyi Gao","China",26,"Midfielder",0,0
+"Xi Wu","China",35,"Midfielder",0,0
+"Xin Xu","China",30,"Midfielder",0,0
+"Yang Liu","China",29,"Defender",0,0
+"Yuning Zhang","China",27,"Forward",0,0
+"Pablo Sabbag","Syria",27,"Forward",0,0
+"Romel Morales Ramírez","Malaysia",26,"Midfielder",1,0
+"Filip Nguyen","Vietnam",31,"Goalkeeper",0,0
+"Frans Dhia Putros","Iraq",31,"Defender",0,0
+"Abdalla Ramadan","UAE",26,"Midfielder",0,1
+"Yahia Nader","UAE",25,"Midfielder",0,0
+"Ali Al-Hamadi","Iraq",22,"Forward",0,0
+"Mukhtar Ali","Saudi Arabia",26,"Midfielder",0,1
+"Stuart John Wilkin","Malaysia",26,"Midfielder",0,0
+"Tyias Browning","China",30,"Defender",0,0
+"Ahmad Allée","Iraq",28,"Midfielder",0,0
+"Mohamadou Sumareh","Malaysia",29,"Midfielder",0,0
+"Alexander Mischenko","Kyrgyzstan",27,"Midfielder",0,0
+"Kai Merk","Kyrgyzstan",25,"Forward",0,0
+"Youssef Amyn","Iraq",20,"Forward",0,0
+"Joel Kojo","Kyrgyzstan",25,"Forward",1,0
+"Abdul Rahman Oues","Syria",26,"Defender",0,0
+"Chun Ming Wu","Hong Kong",26,"Defender",0,0
+"Hei Yin Chang","Hong Kong",24,"Midfielder",0,0
+"Helio Jose De Souza Goncalves","Hong Kong",38,"Defender",0,0
+"Hin Ting Lam","Hong Kong",24,"Midfielder",0,0
+"Hung Fai Yapp","Hong Kong",34,"Goalkeeper",0,0
+"Jesse Joy Yin Yu","Hong Kong",22,"Midfielder",0,0
+"Ka Wing Tse","Hong Kong",24,"Goalkeeper",0,0
+"Ming Him Sun","Hong Kong",24,"Forward",0,0
+"Ngai Hoi Li","Hong Kong",29,"Defender",0,0
+"Oliver Gerbig","Hong Kong",25,"Midfielder",0,0
+"Pui Hin Poon","Hong Kong",23,"Midfielder",0,0
+"Sean Ka Keung Tse","Hong Kong",32,"Midfielder",0,0
+"Shinichi Chan","Hong Kong",21,"Forward",0,0
+"Siu Kwan Chan","Hong Kong",32,"Midfielder",1,0
+"Tan Chun Lok","Hong Kong",28,"Midfielder",0,0
+"Tsun Dai","China",25,"Midfielder",0,0
+"Tsz Chun Law","Hong Kong",27,"Defender",0,0
+"Tze Nam Yue","Hong Kong",25,"Midfielder",0,0
+"Vasudeva Das Lilley Nunez","Hong Kong",28,"Defender",0,0
+"Wai Him Ng","Hong Kong",22,"Goalkeeper",0,0
+"Wai Wong","Hong Kong",31,"Midfielder",0,0
+"Ying Zhi Ju","Hong Kong",37,"Midfielder",0,0
+"Akash Mishra","India",22,"Defender",0,0
+"Amrinder Singh","India",31,"Goalkeeper",0,0
+"Anirudh Thapa","India",26,"Midfielder",0,0
+"Brandon Fernandes","India",29,"Midfielder",0,0
+"Deepak Tangri","India",25,"Defender",0,0
+"Gurpreet Singh Sandhu","India",32,"Goalkeeper",0,0
+"Lalengmawia Lalengmawia","India",23,"Midfielder",0,0
+"Lallianzuala Chhangte","India",26,"Forward",0,0
+"Liston Colaco","India",25,"Forward",0,0
+"Manvir Singh","India",28,"Forward",0,0
+"Mehtab Singh","India",26,"Defender",0,0
+"Naorem Mahesh Singh","India",22,"Forward",0,0
+"Nikhil Poojari","India",28,"Forward",0,0
+"Pritam Kotal","India",30,"Defender",0,0
+"Rahul Bheke","India",33,"Defender",0,0
+"Rahul Kannoly Praveen","India",24,"Midfielder",0,0
+"Sandesh Jhingan","India",31,"Defender",0,0
+"Subashish Bose","India",28,"Defender",0,0
+"Sunil Chhetri","India",40,"Forward",0,0
+"Suresh Singh Wangjam","India",23,"Midfielder",0,0
+"Udanta Kumam Singh","India",28,"Forward",0,0
+"Vikram Pratap Singh","India",22,"Forward",0,0
+"Vishal Kaith","India",28,"Goalkeeper",0,0
+"Adam Alis Setyano","Indonesia",30,"Midfielder",0,0
+"Asnawi Mangkualam Bahar","Indonesia",24,"Midfielder",1,0
+"Dendi Sulistyawan","Indonesia",27,"Forward",0,0
+"Edo Febriansyah","Indonesia",27,"Forward",0,0
+"Egy Maulana Vikri","Indonesia",24,"Midfielder",0,0
+"Ernando Ari Sutaryadi","Indonesia",22,"Goalkeeper",0,0
+"Marselino Ferdinan","Indonesia",19,"Forward",1,0
+"Muhammad Dimas Drajad","Indonesia",27,"Forward",0,0
+"Muhammad Riyandi","Indonesia",24,"Goalkeeper",0,0
+"Nadeo Argawinata","Indonesia",27,"Goalkeeper",0,0
+"Pratama Arhan","Indonesia",23,"Defender",0,0
+"Ricky Kambuaya","Indonesia",28,"Midfielder",0,0
+"Rizky Ridho Ramadhani","Indonesia",23,"Defender",0,0
+"Wahyu Prasetyo","Indonesia",26,"Defender",0,0
+"Witan Sulaeman","Indonesia",22,"Midfielder",0,0
+"Ali Gholizadeh","Iran",28,"Midfielder",0,0
+"Alireza Jahanbakhsh","Iran",30,"Forward",2,1
+"Alireza Safar Beiranvand","Iran",31,"Goalkeeper",0,0
+"Aria Yousefi","Iran",22,"Forward",0,0
+"Ehsan Hajsafi","Iran",34,"Midfielder",0,0
+"Karim Ansarifard","Iran",34,"Forward",1,0
+"Mehdi Ghayedi","Iran",25,"Midfielder",2,0
+"Mehdi Taremi","Iran",32,"Forward",3,0
+"Mehdi Torabi","Iran",29,"Midfielder",0,0
+"Milad Mohammadi","Iran",30,"Defender",0,1
+"Mohammadhossein Kanani Zadegan","Iran",30,"Defender",0,0
+"Omid Ebrahimi","Iran",36,"Midfielder",0,0
+"Payam Niazmand","Iran",29,"Goalkeeper",0,0
+"Ramin Rezaeian","Iran",34,"Defender",0,0
+"Reza Asadi","Iran",28,"Midfielder",0,0
+"Rouzbeh Cheshmi","Iran",31,"Defender",0,0
+"Sadegh Moharrami","Iran",28,"Midfielder",0,0
+"Saeid Ezatolahi Afagh","Iran",27,"Midfielder",0,0
+"Saman Ghoddos","Iran",30,"Midfielder",0,2
+"Sardar Azmoun","Iran",29,"Forward",2,3
+"Seyed Hossein Hosseini","Iran",32,"Goalkeeper",0,0
+"Seyed Majid Hosseini","Iran",28,"Defender",0,0
+"Shoja Khalilzadeh","Iran",35,"Defender",1,0
+"Ahmed Basil Fadhil","Iraq",27,"Goalkeeper",0,0
+"Ahmed Yahya Mhmood Al-Hajjaj","Iraq",29,"Midfielder",0,1
+"Akam Hashim Rahman","Iraq",25,"Midfielder",0,0
+"Ali Adnan Kadhim Al Tameemi","Iraq",30,"Defender",0,0
+"Ali Jasim Elaibi Al Tameemi","Iraq",20,"Midfielder",0,3
+"Allan Kawa Omeer","Iraq",30,"Midfielder",0,0
+"Aymen Hussein","Iraq",28,"Forward",6,0
+"Bashar Rasan Bonyan","Iraq",27,"Midfielder",0,0
+"Fahad Talib Raheem","Iraq",29,"Goalkeeper",0,0
+"Ibraheem Bayesh","Iraq",24,"Midfielder",0,0
+"Jalal Hassan Hachim","Iraq",33,"Goalkeeper",0,0
+"Merchas Doski","Iraq",24,"Midfielder",0,0
+"Muhanad Ali","Iraq",24,"Forward",1,0
+"Osama Rashid","Iraq",32,"Midfielder",1,0
+"Rebin Ghareeb Solaka Adhamat","Iraq",32,"Defender",1,0
+"Saad Natiq Naji","Iraq",30,"Defender",1,0
+"Zidane Iqbal","Iraq",21,"Midfielder",0,0
+"Amid Mhagna","Palestine",27,"Defender",0,0
+"Jaber Ata'a","Palestine",29,"Midfielder",0,0
+"Ayase Ueda","Japan",25,"Forward",5,0
+"Daiya Maekawa","Japan",29,"Goalkeeper",0,0
+"Daizen Maeda","Japan",26,"Forward",0,0
+"Hidemasa Morita","Japan",29,"Midfielder",1,0
+"Hiroki Ito","Japan",25,"Defender",0,0
+"Junya Ito","Japan",31,"Forward",0,0
+"Kaishu Sano","Japan",23,"Midfielder",0,0
+"Kaoru Mitoma","Japan",27,"Forward",0,0
+"Keito Nakamura","Japan",24,"Forward",1,0
+"Ko Itakura","Japan",27,"Defender",0,0
+"Koki Machida","Japan",26,"Defender",0,0
+"Mao Hosoya","Japan",22,"Forward",0,0
+"Reo Hatate","Japan",26,"Midfielder",0,1
+"Ritsu Doan","Japan",26,"Forward",1,1
+"Seiya Maikuma","Japan",26,"Defender",0,1
+"Shogo Taniguchi","Japan",33,"Midfielder",0,0
+"Taishi Brandon Nozawa","Japan",22,"Goalkeeper",0,0
+"Takefusa Kubo","Japan",23,"Forward",1,1
+"Takehiro Tomiyasu","Japan",25,"Defender",0,0
+"Takuma Asano","Japan",29,"Forward",0,0
+"Takumi Minamino","Japan",29,"Forward",2,1
+"Tsuyoshi Watanabe","Japan",27,"Defender",0,0
+"Wataru Endo","Japan",31,"Midfielder",1,1
+"Yukinari Sugawara","Japan",24,"Defender",0,0
+"Yuta Nakayama","Japan",27,"Defender",0,0
+"Zion Suzuki","Japan",21,"Goalkeeper",0,0
+"Abdallah Ra'ed Alfakhori","Jordan",24,"Goalkeeper",0,0
+"Ahmad Mohannad Juaidi","Jordan",23,"Goalkeeper",0,0
+"Ali Iyad Olwan","Jordan",24,"Forward",0,0
+"Anas Hammad","Jordan",26,"Midfielder",0,1
+"Anas Walid Khaled Bani Yassen","Jordan",35,"Defender",0,0
+"Bara Sami Mousa Marie","Jordan",30,"Defender",0,0
+"Ehsan Manel Farhan Haddad","Jordan",30,"Defender",0,1
+"Fadi Mahmoud Awad Saleh","Jordan",31,"Midfielder",0,0
+"Feras Zeyad Yousef Shilbaya","Jordan",30,"Midfielder",0,0
+"Hamza Ali Khaled Al Dardoor","Jordan",33,"Forward",0,0
+"Ibrahim Mohammad Sami","Jordan",24,"Midfielder",0,0
+"Mahmoud Nayef Ahmad Al Mardi","Jordan",30,"Midfielder",2,0
+"Moussa Al Tamari","Jordan",27,"Defender",3,1
+"Nizar Mahmoud Al-Rashdan","Jordan",25,"Midfielder",1,1
+"Noor Al-Deen Mahmoud Ali Al Rawabdeh","Jordan",27,"Midfielder",0,0
+"Rajaei Ayed Fadel Hasan","Jordan",31,"Midfielder",0,0
+"Saleh Ibrahim Rateb","Jordan",29,"Midfielder",0,1
+"Salem Al Ajalin","Jordan",36,"Defender",0,0
+"Yazan Abdallah Alnaimat","Jordan",25,"Forward",4,2
+"Yazan Abo Alarab","Jordan",28,"Defender",2,0
+"Yazeed Moien Hasan Abu laila","Jordan",31,"Goalkeeper",0,0
+"Yousef Abdul Abu Jalboush","Jordan",26,"Midfielder",0,0
+"Youssef Jalbosh","Jordan",26,"Midfielder",0,0
+"Marsel Islamkulov","Kyrgyzstan",30,"Goalkeeper",0,0
+"Abdurakhmanov Odilzhon","Kyrgyzstan",28,"Midfielder",0,0
+"Adil Kadirjanov","Kyrgyzstan",24,"Midfielder",0,0
+"Aizar Akmatov","Kyrgyzstan",25,"Defender",0,0
+"Amantur Shamurzaev","Kyrgyzstan",24,"Midfielder",0,0
+"Atay Dzhumashev","Kyrgyzstan",25,"Forward",0,0
+"Azim Azarov","Kyrgyzstan",27,"Midfielder",0,0
+"Bakhtiyar Duyshobekov","Kyrgyzstan",29,"Forward",0,0
+"Beknaz Almazbekov","Kyrgyzstan",19,"Forward",0,0
+"Bekzhan Sagynbaev","Kyrgyzstan",29,"Midfielder",0,0
+"Christian Brauzman","Kyrgyzstan",20,"Defender",0,0
+"Dastanbek Toktosunov","Kyrgyzstan",21,"Midfielder",0,0
+"Ernest Batyrkanov","Kyrgyzstan",26,"Midfielder",0,0
+"Erzhan Tokotaev","Kyrgyzstan",24,"Goalkeeper",0,0
+"Farkhat Musabekov","Kyrgyzstan",30,"Midfielder",0,0
+"Gulzhigit Alykulov","Kyrgyzstan",23,"Midfielder",0,0
+"Kayrat Zhyrgalbek Uulu","Kyrgyzstan",31,"Midfielder",0,0
+"Suiuntbek Mamyraliev","Kyrgyzstan",26,"Midfielder",0,0
+"Sultan Chomoev","Kyrgyzstan",21,"Goalkeeper",0,0
+"Tamirlan Kozubaev","Kyrgyzstan",30,"Defender",0,0
+"Ali Al Haj","Lebanon",23,"Midfielder",0,0
+"Ali Al Sabaa","Lebanon",30,"Goalkeeper",0,0
+"Bassel Jradi","Lebanon",31,"Midfielder",1,0
+"Hassan Maatouk","Lebanon",36,"Midfielder",0,0
+"Hassan Saad Ali","Lebanon",31,"Forward",0,0
+"Hassan Sameeh Chaitou","Lebanon",33,"Defender",0,0
+"Hilal El-Helwe","Lebanon",29,"Forward",0,0
+"Hussein Al Zain","Lebanon",29,"Defender",0,0
+"Kassem Al Zein","Lebanon",33,"Defender",0,0
+"Khalil Khamis","Lebanon",29,"Defender",0,0
+"Maher Sabra","Lebanon",32,"Defender",0,0
+"Mehdi Khalil","Lebanon",32,"Goalkeeper",0,0
+"Mohamad Haidar","Lebanon",34,"Forward",0,0
+"Mostafa Matar","Lebanon",28,"Goalkeeper",0,0
+"Nassar Nassar","Lebanon",32,"Defender",0,0
+"Nour Mansour","Lebanon",34,"Defender",0,0
+"Omar Bugiel","Lebanon",27,"Forward",0,0
+"Rayane Hamidou","Saudi Arabia",22,"Midfielder",0,0
+"Ahmad Khuzaimi bin Piee","Malaysia",30,"Defender",0,0
+"Ahmad Syihan Hazmi Mohamed","Malaysia",28,"Goalkeeper",0,0
+"Arif Aiman Hanapi","Malaysia",22,"Midfielder",1,0
+"Brendan Gan Seng Ling","Malaysia",36,"Forward",0,0
+"Daniel Sang Ting","Malaysia",31,"Defender",0,0
+"Darren Yee Deng Lok","Malaysia",32,"Forward",0,0
+"Dominic Tan Jun Jin","Malaysia",27,"Defender",0,0
+"Matthew Davies","Malaysia",29,"Defender",0,0
+"Mohamad Faisal bin Abdul Halim","Malaysia",26,"Midfielder",1,0
+"Muhammad Afiq bin Fazail","Malaysia",29,"Midfielder",0,0
+"Muhammad Akhyar Abd Rashid","Malaysia",25,"Midfielder",0,0
+"Muhammad Azri Bin Abdul Ghani","Malaysia",25,"Goalkeeper",0,0
+"Muhammad Syahmi bin Safari","Malaysia",26,"Midfielder",0,0
+"Muhd Safawi Rasid","Malaysia",27,"Forward",0,0
+"Putera Nadher Amarhan Maderner","Malaysia",32,"Midfielder",0,0
+"Shahrul bin Mohd Saad","Malaysia",31,"Defender",0,0
+"Sikh Izhan Nazrel bin Sikh Azhan","Malaysia",22,"Midfielder",0,0
+"Daniel Lajud Martínez","Lebanon",25,"Forward",0,0
+"Rafael Struick","Indonesia",21,"Forward",0,0
+"Ivar Jenner","Indonesia",20,"Midfielder",0,0
+"Justin Hubner","Indonesia",20,"Defender",1,0
+"Marc Klok","Indonesia",31,"Midfielder",0,0
+"Sandy Walsh","Indonesia",29,"Defender",1,0
+"Shayne Pattynama","Indonesia",25,"Midfielder",0,0
+"Michael Udebuluzor","Hong Kong",20,"Forward",0,0
+"Look Saa Nicholas K. Mickelson","Thailand",25,"Defender",0,0
+"Abdul Aziz Bubarak Zayid Gheilani","Oman",29,"Defender",0,0
+"Abdullah Fawaz","Oman",27,"Forward",0,0
+"Ahmed Faraj Abdulla Al Rawahi","Oman",30,"Goalkeeper",0,0
+"Ahmed Khalifa Said Al Kaabi","Oman",27,"Midfielder",0,0
+"Ahmed Mohammed Khalfan Al Khamisi","Oman",32,"Defender",0,0
+"Ali Sulaiman Rashid Al Busaidi","Oman",33,"Defender",0,0
+"Fahmi Said Rajab Durbein","Oman",30,"Defender",0,0
+"Faiyz Issa Khadoom Al Rashidi","Oman",36,"Goalkeeper",0,0
+"Ghanim Ramadhan Bashir Al Habashi","Oman",26,"Midfielder",0,0
+"Harib Jamil Zaid Al Saadi","Oman",34,"Midfielder",0,0
+"Ibrahim Saleh Al Mukhaini","Oman",27,"Goalkeeper",0,0
+"Jameel Al Yahmadi","Oman",30,"Midfielder",0,0
+"Khalid Al-Braiki","Oman",31,"Defender",0,0
+"Mahmood Mabrook Nasib Al Mushaifri","Oman",31,"Defender",0,0
+"Mataz Saleh Abd Raboh","Oman",28,"Midfielder",0,0
+"Muhsen Saleh Abdullah Ali Al Ghassani","Oman",27,"Forward",1,0
+"Omer Mohammed Rashid Malki","Oman",30,"Midfielder",0,0
+"Salaah Said Salim Al-Yahyaei","Oman",30,"Midfielder",1,0
+"Tameem Haitham Shambeh Al Balushi","Oman",24,"Midfielder",0,0
+"Zahir Sulaiman Abdullah Al Aghbari","Oman",25,"Midfielder",0,0
+"Al Mahdi Issa","Palestine",25,"Midfielder",0,0
+"Baraa Kharoub","Palestine",26,"Midfielder",0,0
+"Ikram Rami Hamadeh","Palestine",30,"Goalkeeper",0,0
+"Islam Batran","Palestine",29,"Midfielder",0,0
+"Mahmoud Abu Warda","Palestine",29,"Forward",0,0
+"Mahmoud Wadi","Palestine",29,"Forward",0,0
+"Mohammed Bassim","Palestine",29,"Defender",0,0
+"Mohammed Khalil","Palestine",26,"Defender",0,0
+"Mohammed Saleh","Palestine",31,"Defender",0,0
+"Mus'ab Al Battat","Palestine",30,"Midfielder",0,2
+"Musa Firawi","Palestine",27,"Defender",0,0
+"Naim Abuaker","Palestine",29,"Goalkeeper",0,0
+"Oday Dabbagh","Palestine",25,"Forward",3,0
+"Oday Kharoub","Palestine",31,"Midfielder",0,0
+"Samer Jondi","Palestine",27,"Defender",0,0
+"Shihab Qinbar","Palestine",26,"Midfielder",0,0
+"Tamer Seyam","Palestine",31,"Midfielder",1,0
+"Zaid A. Q. Qunbar","Palestine",21,"Midfielder",1,0
+"Abdulaziz Hatem Mohammed Abdullah","Qatar",34,"Midfielder",0,1
+"Ahmed Alaaeldin Abdelmotaal","Qatar",31,"Forward",0,0
+"Ahmed Alganehi","Qatar",23,"Defender",0,0
+"Ahmed Fathy","Qatar",31,"Midfielder",0,1
+"Akram Hassan Afif","Qatar",27,"Forward",8,3
+"Ali Assadalla Thaimn Qambar","Qatar",31,"Midfielder",0,0
+"Almahdi Ali Mukhtar","Qatar",32,"Defender",0,0
+"Almoez Ali Zainalabiddin Abdulla","Qatar",27,"Forward",2,2
+"Bassam Hisham Al Rawi","Qatar",26,"Midfielder",0,0
+"Boualem Khoukhi","Qatar",34,"Defender",0,0
+"Hassan Khalid Al Haidos","Qatar",33,"Forward",3,0
+"Homam Ahmed Ahmed","Qatar",24,"Defender",0,0
+"Ismaeel Mohammad Mohammad","Qatar",34,"Forward",0,0
+"Jassem Gaber Abdulsallam","Qatar",22,"Defender",1,0
+"Khalid Mohammed","Qatar",24,"Midfielder",0,0
+"Khalid Muneer Mazeed","Qatar",26,"Forward",0,0
+"Meshaal Aissa Barsham","Qatar",26,"Goalkeeper",0,0
+"Mohammed Waed Abdulwahhab","Qatar",24,"Midfielder",0,1
+"Pedro Miguel Correia","Qatar",34,"Defender",0,0
+"Saad Abdullah Al Sheeb","Qatar",34,"Goalkeeper",0,0
+"Salah Zakaria Hassan","Qatar",25,"Goalkeeper",0,0
+"Sultan Hussain Al-Brake","Qatar",28,"Defender",0,0
+"Tarek Salman Salman","Qatar",26,"Midfielder",0,0
+"Youssef Abdel Razaq Youssef","Qatar",24,"Midfielder",0,0
+"Alisher Dzhalilov","Tajikistan",30,"Midfielder",0,0
+"Abdulelah Al Malki","Saudi Arabia",29,"Midfielder",0,0
+"Abdullah Alkhaibari","Saudi Arabia",27,"Midfielder",0,0
+"Abdullah Hadi Radif","Saudi Arabia",25,"Midfielder",1,0
+"Abdulrahman Ghareeb","Saudi Arabia",27,"Midfielder",1,0
+"Ahmed Ali Al Kassar","Saudi Arabia",33,"Goalkeeper",0,0
+"Ali Alawjami","Saudi Arabia",28,"Defender",0,1
+"Ali Albulayhi","Saudi Arabia",34,"Defender",1,0
+"Awn Mutlaq Al Slaluli","Saudi Arabia",25,"Defender",0,0
+"Eid Mohammed Saeed Al Muwallad","Saudi Arabia",22,"Midfielder",0,0
+"Fawaz Al Sagourq","Saudi Arabia",28,"Midfielder",0,0
+"Firas Albirakan","Saudi Arabia",24,"Forward",0,0
+"Hasan Kadesh","Saudi Arabia",31,"Defender",0,0
+"Hassan Mohammed Al Tambakti","Saudi Arabia",25,"Defender",0,0
+"Mohammed Al Burayk","Saudi Arabia",31,"Defender",0,0
+"Mohammed Al Yami","Saudi Arabia",26,"Goalkeeper",0,0
+"Mohammed Kanoo","Saudi Arabia",29,"Midfielder",1,0
+"Nasser Al Dawsari","Saudi Arabia",25,"Midfielder",0,0
+"Raghid Alaa Najjar","Saudi Arabia",27,"Goalkeeper",0,0
+"Saleh Khalid Al Shehri","Saudi Arabia",30,"Forward",0,0
+"Salem Mohammed Al Dawsari","Saudi Arabia",32,"Midfielder",0,1
+"Sami Khalil Al Naji","Saudi Arabia",27,"Midfielder",0,0
+"Saud Abdullah Abdul Hamid","Saudi Arabia",25,"Defender",0,1
+"Talal Abubakr Haji","Saudi Arabia",16,"Midfielder",0,0
+"Harry Souttar","Australia",25,"Defender",1,0
+"Martin Boyle","Australia",31,"Forward",2,0
+"Bum-Keun Song","South Korea",26,"Goalkeeper",0,0
+"Hee-Chan Hwang","South Korea",28,"Forward",1,0
+"Heung-Min Son","South Korea",32,"Forward",3,0
+"Hyeon-seok Hong","South Korea",25,"Midfielder",0,0
+"Hyun-Gyu Oh","South Korea",23,"Forward",0,0
+"Hyun-Jun Yang","South Korea",22,"Midfielder",0,0
+"Hyun-Woo Cho","South Korea",32,"Goalkeeper",0,0
+"In-Beom Hwang","South Korea",27,"Midfielder",1,1
+"Jae-Sung Lee","South Korea",31,"Midfielder",0,0
+"Ji-Soo Kim","South Korea",19,"Midfielder",0,0
+"Jin-Seop Park","South Korea",28,"Midfielder",0,0
+"Jin-Su Kim","South Korea",32,"Defender",0,0
+"Ju-sung Kim","South Korea",23,"Defender",0,0
+"Ki-Je Lee","South Korea",33,"Defender",0,0
+"Kyu-Sung Cho","South Korea",26,"Forward",1,0
+"Lee Kang-in","South Korea",23,"Midfielder",3,1
+"Min-Jae Kim","South Korea",27,"Defender",0,1
+"Seon-Min Moon","South Korea",32,"Midfielder",0,0
+"Seung-Gyu Kim","South Korea",33,"Goalkeeper",0,0
+"Seung-Hyeon Jung","South Korea",30,"Defender",0,0
+"Soon-Min Lee","South Korea",30,"Defender",0,0
+"Tae-Hwan Kim","South Korea",35,"Defender",0,0
+"Woo-Yeong Jeong","South Korea",24,"Midfielder",1,0
+"Yong-Woo Park","South Korea",30,"Midfielder",1,0
+"Young-Gwon Kim","South Korea",34,"Defender",0,0
+"Young-Woo Seol","South Korea",25,"Defender",0,1
+"Ignacio Insa Bohigues","Malaysia",38,"Midfielder",0,0
+"Jordi Amat","Indonesia",32,"Defender",0,0
+"Yasser Hamed Mayor","Palestine",26,"Defender",0,0
+"Aiham Ousou","Syria",24,"Defender",0,0
+"Alexander Michel","Lebanon",31,"Defender",0,0
+"Amir Al-Ammari","Iraq",27,"Midfielder",0,0
+"Amr Kaddoura","Palestine",30,"Goalkeeper",0,0
+"Antonio Yakoub","Syria",22,"Midfielder",0,0
+"Elias Dolah","Thailand",31,"Midfielder",0,0
+"Elmar Abraham","Syria",25,"Midfielder",0,0
+"Hussein Ali","Iraq",22,"Defender",0,0
+"Michel Termanini","Palestine",26,"Defender",0,0
+"Montader Madjed","Iraq",19,"Forward",0,0
+"Mouhammed Ali Dhaini","Lebanon",30,"Defender",0,0
+"Ahmad Madania","Syria",34,"Goalkeeper",0,0
+"Alaa Al Dali","Syria",27,"Forward",0,0
+"Ammar Ramadan","Syria",23,"Midfielder",0,0
+"Amro Jenyat","Syria",31,"Defender",0,0
+"Ibrahim Alma","Syria",32,"Goalkeeper",0,0
+"Khaled Kerdagli","Syria",27,"Forward",0,0
+"Maksim Sarraf","Syria",19,"Midfielder",0,0
+"Moayad Al Ajan","Syria",31,"Defender",0,0
+"Moayad Al Khouli","Syria",31,"Defender",0,0
+"Mohammad Anz","Syria",29,"Midfielder",0,0
+"Omar Al Midani","Syria",30,"Defender",0,0
+"Omar Khribin","Syria",30,"Forward",2,0
+"Taha Mosa","Syria",37,"Goalkeeper",0,0
+"Thaer Krouma","Syria",34,"Midfielder",0,0
+"Akhtam Nazarov","Tajikistan",31,"Defender",0,0
+"Alisher Shukurov","Tajikistan",22,"Midfielder",0,0
+"Daler Barotov","Tajikistan",25,"Goalkeeper",0,0
+"Daler Imomnazarov","Tajikistan",29,"Defender",0,0
+"Ehsoni Panshanbe","Tajikistan",25,"Midfielder",0,1
+"Hasan Muhammadjon","Tajikistan",25,"Forward",0,0
+"Komron Tursunov","Tajikistan",28,"Forward",0,0
+"Manucher Safarov","Tajikistan",23,"Defender",0,0
+"Muhammadali Azizboev","Tajikistan",21,"Forward",0,0
+"Nuriddin Hamroqulov","Tajikistan",25,"Forward",0,0
+"Parvizchon Umarbaev","Tajikistan",29,"Midfielder",1,0
+"Rustam Yatimov","Tajikistan",26,"Goalkeeper",0,0
+"Shahrom Samiev","Tajikistan",23,"Midfielder",0,0
+"Shervoni Mabatshoev","Tajikistan",23,"Midfielder",0,0
+"Sodiqjon Qurbonov","Tajikistan",21,"Midfielder",0,0
+"Tabrezi Davlatmir","Tajikistan",26,"Defender",0,0
+"Vahdat Hanonov","Tajikistan",24,"Defender",2,0
+"Vaysiddin Safarov","Tajikistan",28,"Midfielder",0,0
+"Zoir Jurabaev","Tajikistan",25,"Midfielder",0,1
+"Yahya Alghassani","UAE",26,"Forward",2,0
+"Bordin Phala","Thailand",29,"Midfielder",0,0
+"Jakkaphan Praisuwan","Thailand",29,"Defender",0,0
+"Jaroensak Vongkorn","Thailand",37,"Forward",0,0
+"Kritsada Kaman","Thailand",25,"Forward",0,0
+"Pansa Hemviboon","Thailand",34,"Defender",0,0
+"Pathompol Charoenrattanapirom","Thailand",30,"Midfielder",0,0
+"Patiwat Khammai","Thailand",29,"Goalkeeper",0,0
+"Peeradon Chamratsamee","Thailand",31,"Midfielder",0,0
+"Picha U-Tra","Thailand",28,"Midfielder",0,0
+"Rungrath Poomchantuek","Thailand",32,"Midfielder",0,0
+"Santipharp Channgom","Thailand",27,"Defender",0,0
+"Sarach Yooyen","Thailand",32,"Midfielder",0,0
+"Saranon Anuin","Thailand",30,"Goalkeeper",0,0
+"Siwarak Tedsungnoen","Thailand",40,"Goalkeeper",0,0
+"Supachai Jaided","Thailand",25,"Forward",2,1
+"Supachok Sarachart","Thailand",26,"Forward",1,0
+"Suphan Thongsong","Thailand",29,"Defender",0,0
+"Suphanan Bureerat","Thailand",30,"Defender",0,0
+"Teerasak Poeiphimai","Thailand",21,"Forward",0,0
+"Theerathon Bunmathan","Thailand",34,"Defender",0,0
+"Worachit Kanitsribampen","Thailand",26,"Forward",0,0
+"Abdelrahman Saleh Khamis","UAE",25,"Defender",0,0
+"Abdulla Hamad Mohamed Salmeen Al Menhali","UAE",22,"Midfielder",0,0
+"Abdulla Idrees","UAE",24,"Defender",0,0
+"Ahmed Abdulla Jamil","UAE",25,"Defender",0,0
+"Ali Ahmed Mabkhout Mohsen Omran Al Hajeri","UAE",33,"Forward",0,0
+"Ali Hassan Salmeen Al Balushi","UAE",29,"Midfielder",0,0
+"Ali Khaseif Humad Khaseif Housani","UAE",37,"Goalkeeper",0,0
+"Ali Saleh","UAE",24,"Forward",0,2
+"Bader Nasser Abaelaziz","UAE",22,"Defender",1,0
+"Harib Abdalla Suhail Al Musharrkh Al Maazmi","UAE",21,"Forward",0,0
+"Hassan Hamza Ali Hussain Almaazmi","UAE",29,"Goalkeeper",0,0
+"Khaled Ebraheim Helal Ebraheim Aldhanhani","UAE",27,"Defender",0,0
+"Khalid Essa Mohamed Bilal Saeed","UAE",34,"Goalkeeper",0,0
+"Khalid Hashemi","UAE",27,"Defender",0,0
+"Khalifa Alhammadi","UAE",25,"Defender",1,0
+"Majid Rashid Al-Mehrzi","UAE",24,"Midfielder",0,0
+"Mohamed Omar Zain Mohsen Zain Al Attas","UAE",26,"Defender",0,0
+"Tahnoon Alzaabi","UAE",25,"Midfielder",0,0
+"Zayed Sultan Ahmed Jassim Ibrahim Al Zaabi","UAE",23,"Midfielder",1,0
+"Abbosbek Fayzullayev","Uzbekistan",20,"Midfielder",2,0
+"Abdukodir Khusanov","Uzbekistan",20,"Midfielder",0,0
+"Abdulla Abdullayev","Uzbekistan",26,"Midfielder",0,0
+"Abduvohid Nematov","Uzbekistan",23,"Goalkeeper",0,0
+"Azizbek Amonov","Uzbekistan",26,"Forward",0,0
+"Azizbek Turgunbayev","Uzbekistan",29,"Midfielder",2,0
+"Bobur Abdukhalikov","Uzbekistan",27,"Forward",0,0
+"Botirali Ergashev","Uzbekistan",29,"Goalkeeper",0,0
+"Diyor Kholmatov","Uzbekistan",22,"Midfielder",0,1
+"Djamshid Iskandarov","Uzbekistan",30,"Midfielder",0,0
+"Farrux Sayfiyev","Uzbekistan",33,"Midfielder",0,0
+"Igor Sergeev","Uzbekistan",31,"Forward",1,0
+"Jaloliddin Masharipov","Uzbekistan",30,"Midfielder",0,2
+"Jamshid Boltaboev","Uzbekistan",27,"Midfielder",0,0
+"Khodjiakbar Alidjanov","Uzbekistan",27,"Defender",0,0
+"Muhammadqodir Khamraliyev","Uzbekistan",23,"Defender",0,0
+"Odiljon Khamrobekov","Uzbekistan",28,"Midfielder",1,0
+"Oston Urunov","Uzbekistan",23,"Midfielder",0,1
+"Otabek Shukurov","Uzbekistan",28,"Midfielder",0,1
+"Rustamjon Ashurmatov","Uzbekistan",28,"Defender",0,0
+"Shahboz Umarov","Uzbekistan",25,"Forward",0,0
+"Sherzod Nasrullayev","Uzbekistan",26,"Defender",1,0
+"Umar Eshmuradov","Uzbekistan",31,"Defender",0,0
+"Utkir Yusupov","Uzbekistan",33,"Goalkeeper",0,0
+"Zafarmurod Abdirahmatov","Uzbekistan",21,"Midfielder",0,0
+"Nguyen Hai Long","Vietnam",23,"Midfielder",0,0
+"Do Hung Dung","Vietnam",30,"Midfielder",0,1
+"Le Pham Thanh Long","Vietnam",28,"Midfielder",0,0
+"Nguyen Quang Hai","Vietnam",27,"Midfielder",1,0
+"Ho Tan Tai","Vietnam",26,"Defender",0,0
+"Nguyen Thai Son","Vietnam",21,"Midfielder",0,0
+"Nguyen Thanh Binh","Vietnam",23,"Defender",0,1
+"Truong Tien Anh","Vietnam",25,"Forward",0,0
+"Vo Minh Trong","Vietnam",22,"Midfielder",0,0
+"Nguyen Tuan Anh","Vietnam",29,"Midfielder",0,0
+"Giap Tuan Duong","Vietnam",21,"Midfielder",0,0
+"Phan Tuan Tai","Vietnam",23,"Defender",0,0
+"Khuat Van Khang","Vietnam",21,"Forward",0,1
+"Vu Van Thanh","Vietnam",28,"Midfielder",0,0
+"Nguyen Van Toan","Vietnam",28,"Forward",0,0
+"Nguyen Van Truong","Vietnam",20,"Forward",0,0
+"Nguyen Van Tung","Vietnam",23,"Midfielder",0,0
+"Nguyen Van Viet","Vietnam",22,"Midfielder",0,0
+"Bui Hoang Viet Anh","Vietnam",25,"Defender",1,0
+"Pham Xuan Manh","Vietnam",28,"Forward",0,0
+"Nguyen Dinh Bac","Vietnam",19,"Midfielder",1,0
+"Nguyen Dinh Trieu","Vietnam",32,"Midfielder",0,0
+"Gethin Jones","Australia",28,"Defender",0,1
