@@ -45,12 +45,12 @@
 "Dion Cools","Malaysia",28,"Defender",0,0
 "Caio Canedo Corrêa","UAE",33,"Forward",0,0
 "Endrick dos Santos Parafita","Malaysia",29,"Midfielder",0,0
-"Everton Camargo","Hong Kong",33,"Forward",0,1
+"Everton Camargo","Hong_Kong",33,"Forward",0,1
 "Fabio Virginio de Lima","UAE",31,"Midfielder",0,0
 "Lucas Michel Mendes","Qatar",34,"Defender",0,0
 "Paulo Josue Sturmer dos Reis","Malaysia",35,"Midfielder",0,1
-"Stefan Figueiredo Pereira","Hong Kong",36,"Forward",0,0
-"Walter Soares Belitardo Junior","Hong Kong",33,"Defender",0,0
+"Stefan Figueiredo Pereira","Hong_Kong",36,"Forward",0,0
+"Walter Soares Belitardo Junior","Hong_Kong",33,"Defender",0,0
 "Gabriel Bitar","Lebanon",25,"Forward",0,0
 "La","Malaysia",33,"Defender",0,0
 "Binbin Liu","China",31,"Midfielder",0,0
@@ -93,28 +93,28 @@
 "Youssef Amyn","Iraq",20,"Forward",0,0
 "Joel Kojo","Kyrgyzstan",25,"Forward",1,0
 "Abdul Rahman Oues","Syria",26,"Defender",0,0
-"Chun Ming Wu","Hong Kong",26,"Defender",0,0
-"Hei Yin Chang","Hong Kong",24,"Midfielder",0,0
-"Helio Jose De Souza Goncalves","Hong Kong",38,"Defender",0,0
-"Hin Ting Lam","Hong Kong",24,"Midfielder",0,0
-"Hung Fai Yapp","Hong Kong",34,"Goalkeeper",0,0
-"Jesse Joy Yin Yu","Hong Kong",22,"Midfielder",0,0
-"Ka Wing Tse","Hong Kong",24,"Goalkeeper",0,0
-"Ming Him Sun","Hong Kong",24,"Forward",0,0
-"Ngai Hoi Li","Hong Kong",29,"Defender",0,0
-"Oliver Gerbig","Hong Kong",25,"Midfielder",0,0
-"Pui Hin Poon","Hong Kong",23,"Midfielder",0,0
-"Sean Ka Keung Tse","Hong Kong",32,"Midfielder",0,0
-"Shinichi Chan","Hong Kong",21,"Forward",0,0
-"Siu Kwan Chan","Hong Kong",32,"Midfielder",1,0
-"Tan Chun Lok","Hong Kong",28,"Midfielder",0,0
+"Chun Ming Wu","Hong_Kong",26,"Defender",0,0
+"Hei Yin Chang","Hong_Kong",24,"Midfielder",0,0
+"Helio Jose De Souza Goncalves","Hong_Kong",38,"Defender",0,0
+"Hin Ting Lam","Hong_Kong",24,"Midfielder",0,0
+"Hung Fai Yapp","Hong_Kong",34,"Goalkeeper",0,0
+"Jesse Joy Yin Yu","Hong_Kong",22,"Midfielder",0,0
+"Ka Wing Tse","Hong_Kong",24,"Goalkeeper",0,0
+"Ming Him Sun","Hong_Kong",24,"Forward",0,0
+"Ngai Hoi Li","Hong_Kong",29,"Defender",0,0
+"Oliver Gerbig","Hong_Kong",25,"Midfielder",0,0
+"Pui Hin Poon","Hong_Kong",23,"Midfielder",0,0
+"Sean Ka Keung Tse","Hong_Kong",32,"Midfielder",0,0
+"Shinichi Chan","Hong_Kong",21,"Forward",0,0
+"Siu Kwan Chan","Hong_Kong",32,"Midfielder",1,0
+"Tan Chun Lok","Hong_Kong",28,"Midfielder",0,0
 "Tsun Dai","China",25,"Midfielder",0,0
-"Tsz Chun Law","Hong Kong",27,"Defender",0,0
-"Tze Nam Yue","Hong Kong",25,"Midfielder",0,0
-"Vasudeva Das Lilley Nunez","Hong Kong",28,"Defender",0,0
-"Wai Him Ng","Hong Kong",22,"Goalkeeper",0,0
-"Wai Wong","Hong Kong",31,"Midfielder",0,0
-"Ying Zhi Ju","Hong Kong",37,"Midfielder",0,0
+"Tsz Chun Law","Hong_Kong",27,"Defender",0,0
+"Tze Nam Yue","Hong_Kong",25,"Midfielder",0,0
+"Vasudeva Das Lilley Nunez","Hong_Kong",28,"Defender",0,0
+"Wai Him Ng","Hong_Kong",22,"Goalkeeper",0,0
+"Wai Wong","Hong_Kong",31,"Midfielder",0,0
+"Ying Zhi Ju","Hong_Kong",37,"Midfielder",0,0
 "Akash Mishra","India",22,"Defender",0,0
 "Amrinder Singh","India",31,"Goalkeeper",0,0
 "Anirudh Thapa","India",26,"Midfielder",0,0
@@ -306,7 +306,7 @@
 "Marc Klok","Indonesia",31,"Midfielder",0,0
 "Sandy Walsh","Indonesia",29,"Defender",1,0
 "Shayne Pattynama","Indonesia",25,"Midfielder",0,0
-"Michael Udebuluzor","Hong Kong",20,"Forward",0,0
+"Michael Udebuluzor","Hong_Kong",20,"Forward",0,0
 "Look Saa Nicholas K. Mickelson","Thailand",25,"Defender",0,0
 "Abdul Aziz Bubarak Zayid Gheilani","Oman",29,"Defender",0,0
 "Abdullah Fawaz","Oman",27,"Forward",0,0
@@ -396,32 +396,32 @@
 "Talal Abubakr Haji","Saudi Arabia",16,"Midfielder",0,0
 "Harry Souttar","Australia",25,"Defender",1,0
 "Martin Boyle","Australia",31,"Forward",2,0
-"Bum-Keun Song","South Korea",26,"Goalkeeper",0,0
-"Hee-Chan Hwang","South Korea",28,"Forward",1,0
-"Heung-Min Son","South Korea",32,"Forward",3,0
-"Hyeon-seok Hong","South Korea",25,"Midfielder",0,0
-"Hyun-Gyu Oh","South Korea",23,"Forward",0,0
-"Hyun-Jun Yang","South Korea",22,"Midfielder",0,0
-"Hyun-Woo Cho","South Korea",32,"Goalkeeper",0,0
-"In-Beom Hwang","South Korea",27,"Midfielder",1,1
-"Jae-Sung Lee","South Korea",31,"Midfielder",0,0
-"Ji-Soo Kim","South Korea",19,"Midfielder",0,0
-"Jin-Seop Park","South Korea",28,"Midfielder",0,0
-"Jin-Su Kim","South Korea",32,"Defender",0,0
-"Ju-sung Kim","South Korea",23,"Defender",0,0
-"Ki-Je Lee","South Korea",33,"Defender",0,0
-"Kyu-Sung Cho","South Korea",26,"Forward",1,0
-"Lee Kang-in","South Korea",23,"Midfielder",3,1
-"Min-Jae Kim","South Korea",27,"Defender",0,1
-"Seon-Min Moon","South Korea",32,"Midfielder",0,0
-"Seung-Gyu Kim","South Korea",33,"Goalkeeper",0,0
-"Seung-Hyeon Jung","South Korea",30,"Defender",0,0
-"Soon-Min Lee","South Korea",30,"Defender",0,0
-"Tae-Hwan Kim","South Korea",35,"Defender",0,0
-"Woo-Yeong Jeong","South Korea",24,"Midfielder",1,0
-"Yong-Woo Park","South Korea",30,"Midfielder",1,0
-"Young-Gwon Kim","South Korea",34,"Defender",0,0
-"Young-Woo Seol","South Korea",25,"Defender",0,1
+"Bum-Keun Song","South_Korea",26,"Goalkeeper",0,0
+"Hee-Chan Hwang","South_Korea",28,"Forward",1,0
+"Heung-Min Son","South_Korea",32,"Forward",3,0
+"Hyeon-seok Hong","South_Korea",25,"Midfielder",0,0
+"Hyun-Gyu Oh","South_Korea",23,"Forward",0,0
+"Hyun-Jun Yang","South_Korea",22,"Midfielder",0,0
+"Hyun-Woo Cho","South_Korea",32,"Goalkeeper",0,0
+"In-Beom Hwang","South_Korea",27,"Midfielder",1,1
+"Jae-Sung Lee","South_Korea",31,"Midfielder",0,0
+"Ji-Soo Kim","South_Korea",19,"Midfielder",0,0
+"Jin-Seop Park","South_Korea",28,"Midfielder",0,0
+"Jin-Su Kim","South_Korea",32,"Defender",0,0
+"Ju-sung Kim","South_Korea",23,"Defender",0,0
+"Ki-Je Lee","South_Korea",33,"Defender",0,0
+"Kyu-Sung Cho","South_Korea",26,"Forward",1,0
+"Lee Kang-in","South_Korea",23,"Midfielder",3,1
+"Min-Jae Kim","South_Korea",27,"Defender",0,1
+"Seon-Min Moon","South_Korea",32,"Midfielder",0,0
+"Seung-Gyu Kim","South_Korea",33,"Goalkeeper",0,0
+"Seung-Hyeon Jung","South_Korea",30,"Defender",0,0
+"Soon-Min Lee","South_Korea",30,"Defender",0,0
+"Tae-Hwan Kim","South_Korea",35,"Defender",0,0
+"Woo-Yeong Jeong","South_Korea",24,"Midfielder",1,0
+"Yong-Woo Park","South_Korea",30,"Midfielder",1,0
+"Young-Gwon Kim","South_Korea",34,"Defender",0,0
+"Young-Woo Seol","South_Korea",25,"Defender",0,1
 "Ignacio Insa Bohigues","Malaysia",38,"Midfielder",0,0
 "Jordi Amat","Indonesia",32,"Defender",0,0
 "Yasser Hamed Mayor","Palestine",26,"Defender",0,0
@@ -558,4 +558,5 @@
 "Nguyen Dinh Bac","Vietnam",19,"Midfielder",1,0
 "Nguyen Dinh Trieu","Vietnam",32,"Midfielder",0,0
 "Gethin Jones","Australia",28,"Defender",0,1
+
 
