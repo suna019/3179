@@ -1,0 +1,86 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": 400,
+  "height": 400,
+  "description": "Scatter plot of goals scored vs goals conceded colored by tournament stage (with fixed scales and filter dropdown)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/suna019/3179/main/data/Team_style_scatter.csv"
+  },
+  "transform": [
+    {"filter": "datum.Status !== 'NA'"}
+  ],
+  "params": [
+    {
+      "name": "stage_selection",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "Winner",
+          "Runner-up",
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Group Stage"
+        ],
+        "labels": [
+          "All",
+          "Winner",
+          "Runner-up",
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Group Stage"
+        ],
+        "name": "Select Stage: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "stage_selection == 'All' || datum.Status == stage_selection"}
+  ],
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "goals_scored",
+      "type": "quantitative",
+      "title": "Goals Scored",
+      "scale": {"domain": [0, 15]}  
+    },
+    "y": {
+      "field": "goals_conceded",
+      "type": "quantitative",
+      "title": "Goals Conceded",
+      "scale": {"domain": [0, 12]}   
+    },
+    "color": {
+      "field": "Status",
+      "type": "nominal",
+      "title": "Tournament Stage",
+      "scale": {
+        "domain": [
+          "Winner",
+          "Runner-up",
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Group Stage"
+        ],
+        "range": [
+          "gold",
+          "silver",
+          "saddlebrown",
+          "darkgreen",
+          "darkorange",
+          "darkred"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "team_name", "type": "nominal", "title": "Team"},
+      {"field": "goals_scored", "type": "quantitative", "title": "Goals Scored"},
+      {"field": "goals_conceded", "type": "quantitative", "title": "Goals Conceded"}
+    ]
+  }
+}
