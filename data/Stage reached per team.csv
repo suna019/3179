@@ -1,25 +1,23 @@
-Team,Status,wins,draws,losses,goal_difference
-Qatar,winner,6,1,0,9
-Jordan,runner Up,4,1,2,5
-Iran,semi-finals,4,1,1,5
-South Korea,semi-finals,2,3,1,1
-Uzbekistan,quarter-finals,2,3,0,4
-Australia,quarter-finals,3,1,1,6
-Japan,quarter-finals,3,0,2,4
-Tajikistan,quarter-finals,1,2,2,-1
-Saudi Arabia,round of 16,2,2,0,3
-United Arab Emirates,round of 16,1,2,1,1
-Syria,round of 16,1,2,1,0
-Iraq,round of 16,3,0,1,3
-Thailand,round of 16,1,2,1,1
-Palestine,round of 16,1,1,2,-1
-Bahrain,round of 16,2,0,2,-2
-Indonesia,round of 16,1,0,3,-7
-Oman,group stage,0,2,1,-1
-China,group stage,0,2,1,-1
-Lebanon,group stage,0,1,2,-4
-Kyrgyzstan,group stage,0,1,2,-4
-Malaysia,group stage,0,1,2,-5
-Vietnam,group stage,0,0,3,-4
-Hong Kong,group stage,0,0,3,-6
-India,group stage,0,0,3,-6
+Team,Status
+Qatar,Winner
+Jordan,Runner-up
+Iran,Semi-finals
+South Korea,Semi-finals
+Uzbekistan,Quarter-finals
+Australia,Quarter-finals
+Japan,Quarter-finals
+Tajikistan,Quarter-finals
+Saudi Arabia,Round of 16
+United Arab Emirates,Round of 16
+Syria,Round of 16
+Iraq,Round of 16
+Thailand,Round of 16
+Palestine,Round of 16
+Indonesia,Round of 16
+Oman,Group Stage
+China,Group Stage
+Lebanon,Group Stage
+Kyrgyzstan,Group Stage
+Malaysia,Group Stage
+Vietnam,Group Stage
+India,Group Stage
