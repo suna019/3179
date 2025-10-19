@@ -1,24 +1,25 @@
-Team,Status
-Qatar,Winner
-Jordan,Runner-up
-Iran,Semi-finals
-South Korea,Semi-finals
-Uzbekistan,Quarter-finals
-Australia,Quarter-finals
-Japan,Quarter-finals
-Tajikistan,Quarter-finals
-Saudi Arabia,Round of 16
-United Arab Emirates,Round of 16
-Syria,Round of 16
-Iraq,Round of 16
-Thailand,Round of 16
-Palestine,Round of 16
-Indonesia,Round of 16
-Oman,Group Stage
-China,Group Stage
-Lebanon,Group Stage
-Kyrgyzstan,Group Stage
-Malaysia,Group Stage
-Vietnam,Group Stage
-India,Group Stage
-
+"Team","Status","team_name","wins","draws","losses","goal_difference"
+"Qatar","winner","Qatar National Team",6,1,0,9
+"Jordan","runner Up","Jordan National Team",4,1,2,5
+"Iran","semi-finals","Iran National Team",4,1,1,5
+"South Korea","semi-finals","South Korea National Team",2,3,1,1
+"Uzbekistan","quarter-finals","Uzbekistan National Team",2,3,0,4
+"Australia","quarter-finals","Australia National Team",3,1,1,6
+"Japan","quarter-finals","Japan National Team",3,0,2,4
+"Tajikistan","quarter-finals","Tajikistan National Team",1,2,2,-1
+"Saudi Arabia","round of 16","Saudi Arabia National Team",2,2,0,3
+"United Arab Emirates","round of 16","United Arab Emirates National Team",1,2,1,1
+"Syria","round of 16","Syria National Team",1,2,1,0
+"Iraq","round of 16","Iraq National Team",3,0,1,3
+"Thailand","round of 16","Thailand National Team",1,2,1,1
+"Palestine","round of 16","Palestine National Team",1,1,2,-1
+"Bahrain","round of 16","Bahrain National Team",2,0,2,-2
+"Indonesia","round of 16","Indonesia National Team",1,0,3,-7
+"Oman","group stage","Oman National Team",0,2,1,-1
+"China","group stage","China National Team",0,2,1,-1
+"Lebanon","group stage","Lebanon National Team",0,1,2,-4
+"Kyrgyzstan","group stage","Kyrgyzstan National Team",0,1,2,-4
+"Malaysia","group stage","Malaysia National Team",0,1,2,-5
+"Vietnam","group stage","Vietnam National Team",0,0,3,-4
+"Hong Kong","group stage","Hong Kong National Team",0,0,3,-6
+"India","group stage","India National Team",0,0,3,-6
