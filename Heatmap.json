@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": 700,
+  "height": 175,
+  "description": "Heatmap of goals scored and conceded per interval for a selectable team",
+  "data": {
+    "url": "https://raw.githubusercontent.com/suna019/3179/main/data/Goal_time_heatmap.csv"
+  },
+  "params": [
+    {
+      "name": "team_select",
+      "value": "Total",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australia",
+          "Bahrain",
+          "China",
+          "Hong Kong",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Iraq",
+          "Japan",
+          "Jordan",
+          "Kyrgyzstan",
+          "Lebanon",
+          "Malaysia",
+          "Oman",
+          "Palestine",
+          "Qatar",
+          "Saudi Arabia",
+          "South Korea",
+          "Syria",
+          "Tajikistan",
+          "Thailand",
+          "United Arab Emirates",
+          "Uzbekistan",
+          "Vietnam",
+          "Total"
+        ],
+        "name": "Select Team: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.team_name === team_select"}
+  ],
+  
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "interval",
+      "type": "ordinal",
+      "title": "Match Interval (min)"
+    },
+    "y": {
+      "field": "type",
+      "type": "nominal",
+      "title": "Goal Type",
+      "sort": ["scored","conceded"]
+    },
+    "color": {
+      "field": "goals",
+      "type": "quantitative",
+      "title": "Goals",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "team_name","type":"nominal","title":"Team"},
+      {"field": "type","type":"nominal","title":"Goal Type"},
+      {"field": "interval","type":"ordinal","title":"Interval"},
+      {"field": "goals","type":"quantitative","title":"Goals"}
+    ]
+  }
+}

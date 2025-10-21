@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": 900,
+  "height": 350,
+  "description": "Box plot of player ages per team",
+  "data": {
+    "url": "https://raw.githubusercontent.com/suna019/3179/main/data/player_data.csv"
+  },
+  "mark": "boxplot",
+  "encoding": {
+    "x": {
+      "field": "team",
+      "type": "nominal",
+      "title": "Team",
+      "axis": {"labelAngle": 45}
+    },
+    "y": {
+      "field": "age",
+      "type": "quantitative",
+      "title": "Player Age",
+      "scale": {"domain": [15, 43]}
+    },
+    "tooltip": [
+      {"field": "team", "type": "nominal", "title": "Team"},
+      {"field": "full_name", "type": "nominal", "title": "Player"},
+      {"field": "age", "type": "quantitative", "title": "Age"}
+    ]
+  }
+}

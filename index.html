@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Success in AFC Asian Cup 2023</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+
+  <script src="vega_lite_map.js" defer></script>
+  <script src="vega_lite_heatmap.js" defer></script>
+  <script src="vega_lite_scatterplot.js" defer></script>
+  <script src="vega_lite_boxplot.js" defer></script>
+  <script src="vega_lite_stacked_bar.js" defer></script>
+
+  <style>
+    /* Main Body */
+    body {
+      font-family: "Arial";
+      padding: 60px 0px;
+      background-color: burlywood;
+      display: flex;
+      justify-content: center;
+    }
+
+    /* Page Container */
+    .page {
+      background-color: whitesmoke;
+      width: 80%;
+      max-width: 1080px;
+      padding: 60px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      color: black;
+      margin: 20px;
+    }
+
+    h2 {
+      color: darkblue;
+      margin-top: 40px;
+    }
+
+    p {
+      color: darkslategray;
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+
+    .vis-container {
+      display: inline-block;       
+      background-color: whitesmoke;
+      padding: 0;                  
+      margin: 10px auto;          
+    }
+
+    /* Text Boxes Layout */
+    .text-row {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      margin-top: 10px;
+      gap: 30px;
+       
+    }
+    .text-box {
+      text-align: center;   
+      width: 40%;
+      background-color: whitesmoke;
+      border: 2px solid black;
+      padding: 10px;
+    }
+    .appendix {
+      margin-top: 60px;
+      font-size: 0.8em;      /* slightly smaller text */
+      color: lightgray;
+    }
+    #map {
+      transform: translateX(200px); 
+    }
+    #heatmap {
+      transform: translateX(100px);
+    }
+    #scatterplot {
+      transform: translateX(250px);
+    }
+    #stacked_bar {
+      transform: translateX(220px);
+    }
+    #boxplot {
+      transform: translateX(60px);
+    }
+  </style>
+</head>
+
+<body>
+  
+  <div class="page">
+    <h1>Success in AFC Asian Cup 2023</h1>
+      <h2>Introduction</h2>
+      <p>
+        The AFC Asian Cup 2023 showcased the diversity and quality of football across Asia. 
+        Teams from different regions competed with varying strategies and player compositions. 
+        This analysis visualises team progression, goal timing, scoring balance, player ages, 
+        and impact across the tournament to understand performance trends and key factors.
+      </p>
+    <div class="section">
+      <h2>Team's Progression Across the Tournament</h2>
+      <div id="map" class="vis-container"></div>
+      <div class="text-row">
+        <div class="text-box">
+          <p>
+            The map highlights how each national team performed
+            across the AFC Asian Cup 2023 tournament. Colours and
+            borders emphasize how far teams advanced, revealing clear
+            differences in stage progression throughout the continent.
+            This visualisation helps illustrate overall performance
+            levels and competitive strength among participating nations.
+          </p>
+        </div>
+
+        <div class="text-box">
+          <p>
+            Western Asian countries generally reached the tournament's
+            later stages, while many Eastern teams finished near the
+            quarter-finals. Central Asian sides often struggled early,
+            reflecting regional disparities in team depth and strategy.
+            Together, these outcomes showcase Asia's diverse football
+            landscape and highlight where future growth potential lies.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>When Were Goals Scored?</h2>
+      <div id="heatmap" class="vis-container"></div>
+      <div class="text-row">
+        <div class="text-box">
+          <p>
+            The heatmap shows when goals were scored across matches.
+            Most goals occurred in the final minutes of games.
+            Particularly between the 81st and 90th minute of play.
+            Early periods had fewer goals, showing cautious openings and defense.
+          </p>
+        </div>
+        <div class="text-box">
+          <p>
+            Examining all teams reveals patterns in scoring and defensive actions.
+            These trends highlight key moments when teams were most effective.
+            Match dynamics evolved over time, shaping overall tournament outcomes.
+            Visualisation shows timing's impact on team performance clearly.
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="section">
+      <h2>Offensive vs Defensive Balance</h2>
+      <div id="scatterplot" class="vis-container"></div>
+      <div class="text-row">
+        <div class="text-box">
+          <p>
+            The scatterplot compares goals scored and goals conceded per team.
+            Teams near the bottom-right performed strongly both offensively and defensively.
+            These points indicate finalists with consistent attack and solid defence.
+            Colours show each team's stage, highlighting tournament progression clearly.
+          </p>
+        </div>
+        <div class="text-box">
+          <p>
+            Points close to the diagonal represent balanced but inconsistent play.
+            Here, attack and defence often cancel each other out.
+            The bottom-right point represents the tournament winner with top performance.
+            This visualisation emphasises scoring efficiency correlating with overall success.
+          </p>
+        </div>
+    </div>
+
+    <div class="section">
+      <h2>Player Age Distribution per Team</h2>
+      <div id="boxplot" class="vis-container"></div>
+      <div class="text-row">
+        <div class="text-box">
+          <p>
+            The boxplot shows the age distribution of players per team.
+            Most teams had median ages between 25 and 30 years.
+            A few squads included younger players below 20 years old, whereas
+            most teams included players over 35 years old, indicating experience
+            contributes to success.
+          </p>
+        </div>
+        <div class="text-box">
+          <p>
+            Variation in age differs between teams, showing diverse strategies.
+            Teams with wider age ranges balanced experience and youthful energy.
+            Peak-age players often dominated key positions on the pitch.
+            This visual highlights how age composition influenced overall team performance.
+          </p>
+        </div>
+    </div>
+
+    <div class="section">
+      <h2>Age and Game Impact</h2>
+      <div id="stacked_bar" class="vis-container"></div>
+      <div class="text-row">
+        <div class="text-box">
+          <p>
+            This stacked bar chart shows player impact by age group.
+            Players aged 26–30 contributed most to goals and assists.
+            This reflects peak performance years in international football clearly.
+            Younger players, 20–25, showed growing influence mainly as midfielders.
+          </p>
+        </div>
+        <div class="text-box">
+          <p>
+            Older players had reduced activity and fewer goal contributions.
+            The chart highlights how experience and fitness affect performance.
+            Success varies across positions, with age influencing overall tournament impact.
+            This visualisation demonstrates patterns of contribution for different age groups.
+          </p>
+        </div>
+    </div>
+    <h2>Conclusion</h2>
+      <p>
+        Overall, the visualisations reveal patterns in team progression, scoring, balance, 
+        and player impact across the AFC Asian Cup 2023. Teams combined youth and 
+        experience in varying ways, with effective timing, offensive-defensive balance, 
+        and peak-age contributions strongly correlating with tournament success.
+      </p>
+      <div class="appendix">
+    <p>
+      Designed By: Sanghoon Kim <br>
+      Data From:<br>
+      https://footystats.org/international/afc-asian-cup<br>
+      https://www.flashscore.com/football/asia/asian-cup-2023/#/4GAm1LqR/standings/ 
+    </p>
+  </div>
+  </div>
+</body>
+</html>
